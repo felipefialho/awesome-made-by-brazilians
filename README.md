@@ -5,6 +5,7 @@
 ## Summary
 
 - [Apps](#apps)
+- [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [JavaScript](#js)
 - [PHP](#php)
@@ -15,6 +16,14 @@
 | Project | Author | |
 |--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+ 
+<a name="awesomes"></a>
+### Awesomes & Lists
+
+| Project | Author | |
+|--|--|--|
+| [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
