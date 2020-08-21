@@ -8,6 +8,7 @@
 - [Apps](#apps)
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
+- [C](#c)
 - [CSS](#css)
 - [Flutter](#flutter)
 - [GO](#go)
@@ -37,6 +38,15 @@
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
+ 
+<a name="c"></a>
+### C
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
+| [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
+| [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
