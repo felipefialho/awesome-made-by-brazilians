@@ -26,6 +26,7 @@
 |--|--|--|--|
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | Open-source's challenges of jobs to test your knowledge | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Lista de empresas com trabalho remoto no Brasil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
