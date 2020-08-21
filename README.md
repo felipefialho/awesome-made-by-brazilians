@@ -77,6 +77,7 @@
 |--|--|--|--|
 | [Gitql](https://github.com/filhodanuvem/gitql) | A git query language | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
 | [pREST](https://github.com/prest/prest) | (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
+| [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
 
 <a name="js"></a>
 ### JavaScript
