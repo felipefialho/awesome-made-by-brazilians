@@ -11,6 +11,7 @@
 - [GO](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [vim](#vim)
 
 <a name="apps"></a>
 ### Apps
@@ -66,6 +67,13 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+
+<a name="vim"></a>
+### vim
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | generator provides a simple method of generating a .vimrc configuration for vim | started by [avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square) |
 
 ## Contributing
 
