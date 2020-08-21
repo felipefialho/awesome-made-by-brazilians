@@ -6,11 +6,14 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 - [Apps](#apps)
+- [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
+- [Flutter](#flutter)
 - [GO](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [vim](#vim)
 
 <a name="apps"></a>
 ### Apps
@@ -18,15 +21,23 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+
+<a name="tools"></a>
+### Tools
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
-| Project | Description | Author | |
-|--|--|--|--|
-| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | A curated list of Web Performance Optimization | [davidsonfellipe](https://github.com/davidsonfellipe) | ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square) |
-| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | Open-source's challenges of jobs to test your knowledge | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
-| [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| Project | Author | |
+|--|--|--|
+| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | [davidsonfellipe](https://github.com/davidsonfellipe) | ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square) |
+| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
+| [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
@@ -39,13 +50,20 @@
 | [CSS Components](https://github.com/felipefialho/css-components) | Using the power of CSS and without Javascript | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | The brazilian CSS preprocessor writen in NodeJS | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
 
+<a name="flutter"></a>
+### Flutter
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Flutter para iniciantes](https://github.com/rubensdemelo/flutter-para-iniciantes) | Futuro desenvolvedor Flutter, bem-vindo. Este livro é para você :) | [rubensdemelo](https://github.com/rubensdemelo) | ![Stars](https://img.shields.io/github/stars/rubensdemelo/flutter-para-iniciantes.svg?style=flat-square) |
+
 <a name="go"></a>
 ### GO
 
 | Project | Description | Author | |
 |--|--|--|--|
 | [Gitql](https://github.com/filhodanuvem/gitql) | A git query language | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
-
+| [pREST](https://github.com/prest/prest) | (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
 
 <a name="js"></a>
 ### JavaScript
@@ -59,7 +77,6 @@
 | [kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) | A simple oilerplate for creating statics PWA |[felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square) |
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | A boilerplate to create presentations | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
-| [formcat](https://github.com/guilouro/formcat) | A simple and easy way to control forms in React using the React Context API | [guilouro](https://github.com/guilouro) | ![Stars](https://img.shields.io/github/stars/guilouro/formcat?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
@@ -67,6 +84,13 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+
+<a name="vim"></a>
+### vim
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | generator provides a simple method of generating a .vimrc configuration for vim | started by [avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square) |
 
 ## Contributing
 
