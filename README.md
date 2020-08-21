@@ -58,6 +58,7 @@
 | [kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) | A simple oilerplate for creating statics PWA |[felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square) |
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
+| [formcat](https://github.com/guilouro/formcat) | A simple and easy way to control forms in React using the React Context API | [guilouro](https://github.com/guilouro) | ![Stars](https://img.shields.io/github/stars/guilouro/formcat?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
