@@ -6,6 +6,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 - [Apps](#apps)
+- [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
 - [GO](#go)
@@ -18,6 +19,13 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+
+<a name="tools"></a>
+### Tools
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
