@@ -16,6 +16,8 @@
 | Project | Author | |
 |--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+| [anonydog](https://github.com/anonydog/anonydog)|[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
+| [devitools](https://github.com/devitools) | [devitools](https://github.com/devitools) | Vários projetos|
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
@@ -24,7 +26,7 @@
 |--|--|--|
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
- 
+ | [desafios-css](https://github.com/schirrel/desafios-css)| [schirrel](https://github.com/schirrel)|  ![Stars](https://img.shields.io/github/stars/schirrel/desafios-css.svg?style=flat-square) |
 <a name="css"></a>
 ### CSS
 
@@ -49,6 +51,7 @@
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
 | [zuck.js](https://github.com/ramon82/zuck.js) | [ramon82](https://github.com/ramon82) | ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square) |
+| [request](https://github.com/schirrel/request) | [schirrel](https://github.com/schirrel) | ![Stars](https://img.shields.io/github/stars/schirrel/request?style=flat-square)
 
 <a name="php"></a>
 ### PHP
