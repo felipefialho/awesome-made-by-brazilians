@@ -22,6 +22,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+| [anonydog](https://github.com/anonydog/anonydog) | A bot to anonymize contribuitors |[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
 
 <a name="tools"></a>
 ### Tools
