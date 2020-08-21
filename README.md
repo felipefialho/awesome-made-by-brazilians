@@ -8,7 +8,6 @@
 - [Apps](#apps)
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
-- [GO](#go)
 - [JavaScript](#js)
 - [PHP](#php)
 
@@ -26,6 +25,7 @@
 |--|--|--|
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
@@ -37,13 +37,6 @@
 | [CSS Loader](https://github.com/raphaelfabeni/css-loader) | [raphaelfabeni](https://github.com/raphaelfabeni) | ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square) |
 | [CSS Components](https://github.com/felipefialho/css-components) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
-
-<a name="go"></a>
-### GO
-| Project | Author | |
-|--|--|--|
-| [Gitql](https://github.com/filhodanuvem/gitql) | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
-
 
 <a name="js"></a>
 ### JavaScript
@@ -65,6 +58,16 @@
 | Project | Author | |
 |--|--|--|
 | [Validation](https://github.com/Respect/Validation) | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+
+
+<a name="rust"></a>
+### RUST
+
+| Project | Author | |
+|--|--|--|
+| [HolidayAPI](https://github.com/guibranco/holiday-api-rust) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/holiday-api-rust.svg?style=flat-square) |
+| [Via CEP](https://github.com/guibranco/viacep-rs) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/viacep-rs.svg?style=flat-square) |
+| [Calendarific](https://github.com/guibranco/calendarific-sdk-rs) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/calendarific-sdk-rs.svg?style=flat-square) |
 
 ## Thanks
 
