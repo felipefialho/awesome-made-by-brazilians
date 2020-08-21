@@ -11,7 +11,6 @@
 - [GO](#go)
 - [JavaScript](#js)
 - [PHP](#php)
-- [RUST](#rust)
 
 <a name="apps"></a>
 ### Apps
@@ -79,16 +78,6 @@ If you want to add project to this list, please, make sure that:
 - The project can't be just an experimental or sample project
 - The project has more that **100 stars** on Github
 - If they do, feel free to make a PR!
-
-
-<a name="rust"></a>
-### RUST
-
-| Project | Author | |
-|--|--|--|
-| [HolidayAPI](https://github.com/guibranco/holiday-api-rust) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/holiday-api-rust.svg?style=flat-square) |
-| [Via CEP](https://github.com/guibranco/viacep-rs) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/viacep-rs.svg?style=flat-square) |
-| [Calendarific](https://github.com/guibranco/calendarific-sdk-rs) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/calendarific-sdk-rs.svg?style=flat-square) |
 
 ## Thanks
 
