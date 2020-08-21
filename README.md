@@ -8,7 +8,9 @@
 - [Apps](#apps)
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
+- [C](#c)
 - [CSS](#css)
+- [Flutter](#flutter)
 - [GO](#go)
 - [JavaScript](#js)
 - [PHP](#php)
@@ -33,12 +35,20 @@
 
 | Project | Description | Author | |
 |--|--|--|--|
-| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | Listing some playful open-source's challenges of jobs to test your knowledge | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
-| [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) | 
+| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | [davidsonfellipe](https://github.com/davidsonfellipe) | ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square) |
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+ 
+<a name="c"></a>
+### C
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
+| [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
+| [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
@@ -50,6 +60,13 @@
 | [CSS Loader](https://github.com/raphaelfabeni/css-loader) | Simple loaders for your web applications using only one div and pure CSS | [raphaelfabeni](https://github.com/raphaelfabeni) | ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square) |
 | [CSS Components](https://github.com/felipefialho/css-components) | Using the power of CSS and without Javascript | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | The brazilian CSS preprocessor writen in NodeJS | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
+
+<a name="flutter"></a>
+### Flutter
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Flutter para iniciantes](https://github.com/rubensdemelo/flutter-para-iniciantes) | Futuro desenvolvedor Flutter, bem-vindo. Este livro é para você :) | [rubensdemelo](https://github.com/rubensdemelo) | ![Stars](https://img.shields.io/github/stars/rubensdemelo/flutter-para-iniciantes.svg?style=flat-square) |
 
 <a name="go"></a>
 ### GO
@@ -71,7 +88,6 @@
 | [kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) | A simple oilerplate for creating statics PWA |[felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square) |
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | A boilerplate to create presentations | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
-| [formcat](https://github.com/guilouro/formcat) | A simple and easy way to control forms in React using the React Context API | [guilouro](https://github.com/guilouro) | ![Stars](https://img.shields.io/github/stars/guilouro/formcat?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
