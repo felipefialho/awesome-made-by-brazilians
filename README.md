@@ -33,12 +33,13 @@
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
-| Project | Author | |
-|--|--|--|
+| Project | Description | Author | |
+|--|--|--|--|
 | [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | [davidsonfellipe](https://github.com/davidsonfellipe) | ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square) |
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
+| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
