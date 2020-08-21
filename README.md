@@ -24,6 +24,7 @@
 
 | Project | Description | Author | |
 |--|--|--|--|
+| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | A curated list of Web Performance Optimization | [davidsonfellipe](https://github.com/davidsonfellipe) | ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square) |
 | [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | Open-source's challenges of jobs to test your knowledge | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
  
