@@ -121,7 +121,7 @@ If you want to add project to this list, please, make sure that:
 
 - [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
 - [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
-- [awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
+- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
 
