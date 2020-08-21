@@ -17,9 +17,10 @@
 | Project | Author | |
 |--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
- | [anonydog](https://github.com/anonydog/anonydog)|[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
+| [anonydog](https://github.com/anonydog/anonydog)|[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
 | [devitools](https://github.com/devitools) | [devitools](https://github.com/devitools) | Vários projetos|
 |[qtude](https://github.com/iagocavalcante/medium) | [iagocavalcante](https://github.com/iagocavalcante) | ![Stars](https://img.shields.io/github/stars/iagocavalcante/medium?style=flat-square)|
+
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
