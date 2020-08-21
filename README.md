@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [JavaScript](#js)
 - [PHP](#php)
+- [RUST](#rust)
 
 <a name="apps"></a>
 ### Apps
