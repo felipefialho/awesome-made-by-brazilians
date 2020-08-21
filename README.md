@@ -11,7 +11,7 @@
 - [C](#c)
 - [CSS](#css)
 - [Flutter](#flutter)
-- [GO](#go)
+- [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
 - [vim](#vim)
@@ -70,7 +70,7 @@
 | [Flutter para iniciantes](https://github.com/rubensdemelo/flutter-para-iniciantes) | Futuro desenvolvedor Flutter, bem-vindo. Este livro é para você :) | [rubensdemelo](https://github.com/rubensdemelo) | ![Stars](https://img.shields.io/github/stars/rubensdemelo/flutter-para-iniciantes.svg?style=flat-square) |
 
 <a name="go"></a>
-### GO
+### Go
 
 | Project | Description | Author | |
 |--|--|--|--|
