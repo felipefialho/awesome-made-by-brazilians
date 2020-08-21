@@ -47,6 +47,7 @@
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [ionic2-pokedex](https://github.com/loiane/ionic2-pokedex) | [loiane](https://github.com/loiane) | ![Stars](https://img.shields.io/github/stars/loiane/ionic2-pokedex?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
+|[medium](https://github.com/iagocavalcante/medium/) | [iagocavalcante](https://github.com/iagocavalcante/) | ![Stars](https://img.shields.io/github/stars/iagocavalcante/medium?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
