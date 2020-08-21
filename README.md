@@ -18,6 +18,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
+| [StatusCenter](https://github.com/valtlfelipe/statuscenter) | Mobile app to manage statuspage.io pages | [valtlfelipe](https://github.com/valtlfelipe) | ![Stars](https://img.shields.io/github/stars/valtlfelipe/statuscenter.svg?style=flat-square) |
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
