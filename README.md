@@ -84,6 +84,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [clipboard.js](https://github.com/zenorocha/clipboard.js) | Modern copy to clipboard. No Flash. Just 3kb gzipped | [zenorocha](https://github.com/zenorocha) | ![Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=flat-square) |
+| [Docz](https://github.com/doczjs/docz/) | Docz makes it easy to write and publish beautiful interactive documentation for your code. | [pedronauck](https://github.com/pedronauck) | ![Stars](https://img.shields.io/github/stars/pedronauck/docz.svg?style=flat-square) |
 | [zuck.js](https://github.com/ramon82/zuck.js) | A javascript library that lets you add stories EVERYWHERE |[ramon82](https://github.com/ramon82) | ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square) |
 | [cep-promise](https://github.com/filipedeschamps/cep-promise) | Search for CEP using Correios, ViaCEP e etc | [filipedeschamps](https://github.com/filipedeschamps) | ![Stars](https://img.shields.io/github/stars/filipedeschamps/cep-promise.svg?style=flat-square) |
 | [ajax](https://github.com/fdaciuk/ajax) | Ajax module in Vanilla JS | [fdaciuk](https://github.com/fdaciuk) | ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square) |
