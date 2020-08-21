@@ -5,16 +5,21 @@
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
-- [Apps](#apps)
-- [Tools](#tools)
-- [Awesomes & Lists](#awesomes)
-- [C](#c)
-- [CSS](#css)
-- [Flutter](#flutter)
-- [Go](#go)
-- [JavaScript](#js)
-- [PHP](#php)
-- [vim](#vim)
+- [:brazil: Awesome Made by Brazilians ![Awesome](https://awesome.re)](#brazil-awesome-made-by-brazilians-img-srchttpsawesomerebadgesvg-altawesome)
+    - [Apps](#apps)
+    - [Tools](#tools)
+    - [Awesomes & Lists](#awesomes--lists)
+    - [Documentation](#documentation)
+    - [C](#c)
+    - [CSS](#css)
+    - [Flutter](#flutter)
+    - [Go](#go)
+    - [JavaScript](#javascript)
+    - [PHP](#php)
+    - [vim](#vim)
+  - [Contributing](#contributing)
+  - [Thanks](#thanks)
+  - [License](#license)
 
 <a name="apps"></a>
 ### Apps
@@ -41,6 +46,14 @@
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+
+<a name="documentation"></a>
+### Documentation
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Docz](https://github.com/doczjs/docz/) | Docz makes it easy to write and publish beautiful interactive documentation for your code. | [pedronauck](https://github.com/pedronauck) | ![Stars](https://img.shields.io/github/stars/pedronauck/docz.svg?style=flat-square) |
+
  
 <a name="c"></a>
 ### C
@@ -121,7 +134,7 @@ If you want to add project to this list, please, make sure that:
 
 - [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
 - [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
-- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
+- [awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
 
