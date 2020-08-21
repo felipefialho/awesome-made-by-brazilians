@@ -50,7 +50,9 @@
 
 ## Thanks
 
-[Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂), [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project and [awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template.
+- [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
+- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
+- [awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
 
