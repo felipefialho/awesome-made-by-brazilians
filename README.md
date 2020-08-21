@@ -2,8 +2,6 @@
 
 > A collection of amazing open source projects built by brazilian developers.
 
-## Summary
-
 - [Apps](#apps)
 - [Awesomes & Lists](#awesomes)
 - [CSS](#css)
