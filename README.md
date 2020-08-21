@@ -22,10 +22,11 @@
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
-| Project | Description | Author | |
-|--|--|--|--|
-| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | Open-source's challenges of jobs to test your knowledge | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
-| [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| Project | Author | |
+|--|--|--|
+| [frontend-challenges](https://github.com/felipefialho/frontend-challenges) | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square) |
+| [awesome-svg](https://github.com/willianjusten/awesome-svg) | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
  
 <a name="css"></a>
 ### CSS
@@ -44,7 +45,6 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Gitql](https://github.com/filhodanuvem/gitql) | A git query language | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
-
 
 <a name="js"></a>
 ### JavaScript
