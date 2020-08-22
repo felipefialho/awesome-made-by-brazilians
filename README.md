@@ -104,6 +104,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+| [Corcel](https://github.com/corcel/corcel) | WordPress backend with Laravel or any PHP application | [jgrossi](https://github.com/jgrossi) | ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square) |
 
 <a name="vim"></a>
 ### vim
