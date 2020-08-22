@@ -1,9 +1,7 @@
-# :brazil: Awesome Made by Brazilians  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# :brazil: Awesome Made by Brazilians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of amazing open source projects built by brazilian developers
 
- 
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/license)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
