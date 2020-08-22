@@ -35,7 +35,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
- 
+
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
@@ -50,7 +50,7 @@
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
 | [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
- 
+
 <a name="c"></a>
 ### C
 
@@ -59,7 +59,7 @@
 | [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
- 
+
 
 <a name="cpp"></a>
 ### C++
@@ -117,6 +117,7 @@
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
 | [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) | Utils library for Brazilian-specific businesses | [hyanmandian](https://github.com/hyanmandian) | ![Stars](https://img.shields.io/github/stars/brazilian-utils/brazilian-utils?style=flat-square) |
 | [Unform](https://github.com/Rocketseat/unform) | Easy peasy highly scalable ReactJS & React Native forms! :rocket: | [Rocketseat](https://github.com/Rocketseat) | ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square) |
+| [subtitle.js](https://github.com/gsantiago/subtitle.js) | Parse and manipulate subtitles | [gsantiago](https://github.com/gsantiago) | ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
@@ -177,7 +178,7 @@ If you want to add project to this list, please, make sure that:
 ## Thanks
 
 - [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
-- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
+- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project
 - [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
