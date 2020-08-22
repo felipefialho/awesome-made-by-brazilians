@@ -65,6 +65,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Brasilino](https://github.com/OtacilioN/Brasilino) | Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR. 🇧🇷| [Otacilio Maia](https://github.com/OtacilioN), [Thiago Augusto](https://github.com/ThiagoAugustoSM), [Erick Simões](https://github.com/ErickSimoes) | ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square) |
+| [pgModeler](https://github.com/pgmodeler/pgmodeler) | pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL | [Raphael Araújo e Silva](https://github.com/rkhaotix) | ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square) |
 
 <a name="css"></a>
 ### CSS
