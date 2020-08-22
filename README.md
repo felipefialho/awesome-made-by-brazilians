@@ -15,6 +15,7 @@
 - [JavaScript](#js)
 - [PHP](#php)
 - [vim](#vim)
+- [Misc](#misc)
 
 <a name="apps"></a>
 ### Apps
@@ -106,6 +107,13 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | generator provides a simple method of generating a .vimrc configuration for vim | started by [avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square) |
+
+<a name="misc"></a>
+### Misc
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) | A repository with a bunch of funny algorithms, beginners friendly | [Otacilio Maia](https://github.com/OtacilioN) | ![Stars](https://img.shields.io/github/stars/ReciHub/FunnyAlgorithms.svg?style=flat-square) |
 
 ## Contributing
 
