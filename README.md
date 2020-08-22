@@ -9,6 +9,7 @@
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
+- [C++](#cpp)
 - [CSS](#css)
 - [Flutter](#flutter)
 - [Go](#go)
@@ -54,6 +55,14 @@
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
+
+<a name="cpp"></a>
+### C++
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Brasilino](https://github.com/OtacilioN/Brasilino) | Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR. 🇧🇷| [Otacilio Maia](https://github.com/OtacilioN), [Thiago Augusto](https://github.com/ThiagoAugustoSM), [Erick Simões](https://github.com/ErickSimoes) | ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square) |
+
 <a name="css"></a>
 ### CSS
 
