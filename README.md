@@ -94,7 +94,7 @@
 |--|--|--|--|
 | [Gitql](https://github.com/filhodanuvem/gitql) | A git query language | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
 | [goreleaser](https://github.com/goreleaser/goreleaser) | Deliver Go binaries as fast and easily as possible | [caarlos0](https://github.com/caarlos0) | ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square) |
-| [pREST](https://github.com/prest/prest) | (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
+| [pREST](https://github.com/prest/prest) | (PostgreSQL REST), <br> simplify and accelerate development, instant, realtime,<br>  high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
 | [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
 | [GoCity](https://github.com/rodrigo-brito/gocity) | Code City metaphor for visualizing Go source code in 3D | [rodrigo-brito](https://github.com/rodrigo-brito) | ![Stars](https://img.shields.io/github/stars/rodrigo-brito/gocity.svg?style=flat-square) |
 
