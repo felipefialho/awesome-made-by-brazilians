@@ -63,6 +63,7 @@
  | Project | Description | Author | |
  |--|--|--|--|
  | [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Implement the most common used technologies | [EduardoPires](https://github.com/EduardoPires) | ![Stars](https://img.shields.io/github/stars/EduardoPires/EquinoxProject.svg?style=flat-square) | 
+ | [FluentValidator](https://github.com/andrebaltieri/FluentValidator) | A fluent way to use Notification Pattern with your entities | [andrebaltieri](https://github.com/andrebaltieri) | ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square) | 
  
 <a name="css"></a>
 ### CSS
