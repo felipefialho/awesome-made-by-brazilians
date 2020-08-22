@@ -15,6 +15,7 @@
 - [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [Python](#python)
 - [Lua](#lua)
 - [Elixir](#elixir)
 - [vim](#vim)
@@ -122,6 +123,13 @@
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
 | [Corcel](https://github.com/corcel/corcel) | WordPress backend with Laravel or any PHP application | [jgrossi](https://github.com/jgrossi) | ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square) |
+
+<a name="python"></a>
+### Python
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
 
 <a name="Lua"></a>
 ### Lua
