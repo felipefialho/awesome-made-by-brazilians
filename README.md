@@ -145,20 +145,6 @@
 |--|--|--|--|
 | [Elixir Programming Language](https://github.com/elixir-lang/elixir) | Elixir language, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim) | ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square) |
 
-<a name="lua"></a>
-### Lua
-
-| Project | Description | Author | |
-|--|--|--|--|
-| [Lua Programming language](https://github.com/lua/lua) | Lua language, created by a Brazilian, Roberto Ierusalimschy | [roberto-ieru](https://github.com/roberto-ieru) | ![Stars](https://img.shields.io/github/stars/lua/lua?style=flat-square) |
-
-<a name="elixir"></a>
-### Elixir
-
-| Project | Description | Author | |
-|--|--|--|--|
-| [Elixir Programming Language](https://github.com/elixir-lang/elixir) | Elixir language, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim) | ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square) |
-
 <a name="vim"></a>
 ### vim
 
