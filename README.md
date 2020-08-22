@@ -95,6 +95,7 @@
 | [kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) | A simple oilerplate for creating statics PWA |[felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square) |
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | A boilerplate to create presentations | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
+| [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) | Utils library for Brazilian-specific businesses | [hyanmandian](https://github.com/hyanmandian) | ![Stars](https://img.shields.io/github/stars/brazilian-utils/brazilian-utils?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
