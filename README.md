@@ -3,17 +3,21 @@
 > A collection of amazing open source projects built by brazilian developers
 
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/license)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-brazilians/graphs/contributors)
 
 - [Apps](#apps)
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
+- [C++](#cpp)
 - [CSS](#css)
 - [Flutter](#flutter)
 - [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [Python](#python)
+- [Lua](#lua)
+- [Elixir](#elixir)
 - [vim](#vim)
 - [Misc](#misc)
 
@@ -44,6 +48,8 @@
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
+| [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
@@ -54,6 +60,15 @@
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
+
+<a name="cpp"></a>
+### C++
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Brasilino](https://github.com/OtacilioN/Brasilino) | Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR. 🇧🇷| [Otacilio Maia](https://github.com/OtacilioN), [Thiago Augusto](https://github.com/ThiagoAugustoSM), [Erick Simões](https://github.com/ErickSimoes) | ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square) |
+| [pgModeler](https://github.com/pgmodeler/pgmodeler) | pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL | [Raphael Araújo e Silva](https://github.com/rkhaotix) | ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square) |
+
 <a name="css"></a>
 ### CSS
 
@@ -71,6 +86,8 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Flutter para iniciantes](https://github.com/rubensdemelo/flutter-para-iniciantes) | Futuro desenvolvedor Flutter, bem-vindo. Este livro é para você :) | [rubensdemelo](https://github.com/rubensdemelo) | ![Stars](https://img.shields.io/github/stars/rubensdemelo/flutter-para-iniciantes.svg?style=flat-square) |
+| [Flame engine](https://github.com/flame-engine/flame) | Game engine 2d pra Flutter | [luanpotter](https://github.com/luanpotter) | ![Stars](https://img.shields.io/github/stars/flame-engine/flame.svg?style=flat-square) |
+| [Photo view](https://github.com/renancaraujo/photo_view) | Widget pra galeria de imagens | [renancaraujo](https://github.com/renancaraujo) | ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square) |
 
 <a name="go"></a>
 ### Go
@@ -78,9 +95,10 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Gitql](https://github.com/filhodanuvem/gitql) | A git query language | [filhodanuvem](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square) |
-| [goreleaser](https://github.com/goreleaser/goreleaser) | Deliver Go binaries as fast and easily as possible | [caarlos0](https://github.com/filhodanuvem) | ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square) |
-| [pREST](https://github.com/prest/prest) | (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
+| [goreleaser](https://github.com/goreleaser/goreleaser) | Deliver Go binaries as fast and easily as possible | [caarlos0](https://github.com/caarlos0) | ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square) |
+| [pREST](https://github.com/prest/prest) | (PostgreSQL REST), <br> simplify and accelerate development, instant, realtime,<br>  high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
 | [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
+| [GoCity](https://github.com/rodrigo-brito/gocity) | Code City metaphor for visualizing Go source code in 3D | [rodrigo-brito](https://github.com/rodrigo-brito) | ![Stars](https://img.shields.io/github/stars/rodrigo-brito/gocity.svg?style=flat-square) |
 
 <a name="js"></a>
 ### JavaScript
@@ -96,6 +114,7 @@
 | [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) | A boilerplate to create presentations | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square) |
 | [mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum) | JS Lorem Ipsum generator | [diegofelipece](https://github.com/diegofelipece) | ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) |
 | [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) | Utils library for Brazilian-specific businesses | [hyanmandian](https://github.com/hyanmandian) | ![Stars](https://img.shields.io/github/stars/brazilian-utils/brazilian-utils?style=flat-square) |
+| [Unform](https://github.com/Rocketseat/unform) | Easy peasy highly scalable ReactJS & React Native forms! :rocket: | [Rocketseat](https://github.com/Rocketseat) | ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
@@ -103,7 +122,29 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+| [Corcel](https://github.com/corcel/corcel) | WordPress backend with Laravel or any PHP application | [jgrossi](https://github.com/jgrossi) | ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square) |
 | [Siler](https://github.com/leocavalcante/siler) | Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions | [leocavalcante](https://github.com/leocavalcante) | ![Stars](https://img.shields.io/github/stars/leocavalcante/siler?style=flat-square) |
+
+<a name="python"></a>
+### Python
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
+
+<a name="Lua"></a>
+### Lua
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Lua Programming language](https://github.com/lua/lua) | Lua language, created by a Brazilian, Roberto Ierusalimschy | [roberto-ieru](https://github.com/roberto-ieru) | ![Stars](https://img.shields.io/github/stars/lua/lua?style=flat-square) |
+
+<a name="Elixir"></a>
+### Elixir
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Elixir Programming Language](https://github.com/elixir-lang/elixir) | Elixir language, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim) | ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square) |
 
 <a name="vim"></a>
 ### vim
