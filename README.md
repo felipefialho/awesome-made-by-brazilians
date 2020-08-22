@@ -8,7 +8,6 @@
 ## Index 
 
 - [Apps](#apps)
-- [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
 - [CSS](#css)
@@ -16,7 +15,10 @@
 - [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
+- [Tools](#tools)
 - [vim](#vim)
+- **[Contributing](#contributing)**
+
 
 <a name="apps"></a>
 ### Apps
@@ -25,13 +27,7 @@
 The unofficial WWDC app for macOS   
 ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
 
-<a name="tools"></a>
-### Tools
 
-- **[Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket)** by [andremw](https://github.com/andremw)  
-Chrome and Firefox extension that improves Bitbucket's user experience  
-![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) 
- 
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
@@ -58,7 +54,8 @@ List of brazilian bankings
 - **[awesome-go](https://github.com/avelino/awesome-go)** by [Avelino](https://github.com/avelino)  
 A curated list of awesome Go frameworks, libraries and software.  
 ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) 
- 
+
+
 <a name="c"></a>
 ### C
  
@@ -150,12 +147,22 @@ A boilerplate to create presentations
 JS Lorem Ipsum generator  
 ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square) 
 
+
 <a name="php"></a>
 ### PHP
 
 - **[Validation](https://github.com/Respect/Validation)** by [henriquemoody](https://github.com/henriquemoody)  
 The most awesome validation engine ever created for PHP.  
 ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) 
+
+
+<a name="tools"></a>
+### Tools
+
+- **[Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket)** by [andremw](https://github.com/andremw)  
+Chrome and Firefox extension that improves Bitbucket's user experience  
+![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) 
+
 
 <a name="vim"></a>
 ### vim
@@ -164,6 +171,8 @@ The most awesome validation engine ever created for PHP.
 Vim Bootstrap provides a simple method for generating .vimrc configuration files for Vim, NeoVim, NeoVim-Qt, MacVim and GVim.  
 ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square) 
 
+
+<a name="contributing"></a>
 ## Contributing
 
 > the same measurement rule as [awesome-made-by-russians ](https://github.com/gaearon/awesome-made-by-russians)
