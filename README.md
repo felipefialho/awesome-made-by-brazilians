@@ -46,6 +46,7 @@
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | A curated list of brazilian banks | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
 | [Links-uteis](https://github.com/OfficialMarinho/Links-uteis) | List of awesome links | [OfficialMarinho](https://github.com/OfficialMarinho) | ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square) |
+| [Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros) | List os brazilian cities | [kelvins](https://github.com/kelvins) | ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
