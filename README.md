@@ -44,6 +44,7 @@
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
