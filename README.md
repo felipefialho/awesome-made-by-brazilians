@@ -103,6 +103,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
+| [Siler](https://github.com/leocavalcante/siler) | Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions | [leocavalcante](https://github.com/leocavalcante) | ![Stars](https://img.shields.io/github/stars/leocavalcante/siler?style=flat-square) |
 
 <a name="vim"></a>
 ### vim
