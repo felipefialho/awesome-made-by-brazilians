@@ -163,12 +163,16 @@ A git query language
 Code City metaphor for visualizing Go source code in 3D  
 ![Stars](https://img.shields.io/github/stars/rodrigo-brito/gocity.svg?style=flat-square)  
 
+- **[gofn](https://github.com/gofn/gofn)** started by [avelino](https://github.com/avelino)  
+Function process via docker provider (serverless minimalist)  
+![Stars](https://img.shields.io/github/stars/gofn/gofn.svg?style=flat-square)  
+
 - **[goreleaser](https://github.com/goreleaser/goreleaser)** by [caarlos0](https://github.com/caarlos0)  
 Deliver Go binaries as fast and easily as possible  
 ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square)  
  
 - **[pREST](https://github.com/prest/prest)** by [Avelino](https://github.com/avelino)  
-(PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new 
+(PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new  
 ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square)  
 
 - **[ShellHub](https://github.com/shellhub-io/shellhub)**  by [gustavosbarreto](https://github.com/gustavosbarreto)  
