@@ -130,6 +130,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
+| [pytest](https://github.com/pytest-dev/pytest) | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing | [nicoddemus](https://github.com/nicoddemus) | ![Stars](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square) |
 
 <a name="Lua"></a>
 ### Lua
