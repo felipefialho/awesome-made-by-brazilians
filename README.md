@@ -42,8 +42,9 @@
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [awesome-a11y](https://github.com/brunopulis/awesome-a11y) | A curate list about A11Y | [Bruno Pulis](https://github.com/brunopulis) | ![Stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y.svg?style=flat-square) |
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
-| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | A curated list of brazilian banks | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [Links-uteis](https://github.com/OfficialMarinho/Links-uteis) | List of awesome links | [OfficialMarinho](https://github.com/OfficialMarinho) | ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
