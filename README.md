@@ -3,7 +3,7 @@
 > A collection of amazing open source projects built by brazilian developers
 
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/license)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-brazilians/graphs/contributors)
 
 - [Apps](#apps)
 - [Tools](#tools)
@@ -44,6 +44,7 @@
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
 | [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
  
 <a name="c"></a>
 ### C
