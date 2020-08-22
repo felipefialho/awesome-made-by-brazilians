@@ -9,6 +9,7 @@
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
+- [C#](#csharp)
 - [CSS](#css)
 - [Flutter](#flutter)
 - [Go](#go)
@@ -54,6 +55,13 @@
 | [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
+ 
+ <a name="csharp"></a>
+ ### C#
+ 
+ | Project | Description | Author | |
+ |--|--|--|--|
+ | [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Implement the most common used technologies | [EduardoPires](https://github.com/EduardoPires) | ![Stars](https://img.shields.io/github/stars/EduardoPires/EquinoxProject.svg?style=flat-square) | 
  
 <a name="css"></a>
 ### CSS
