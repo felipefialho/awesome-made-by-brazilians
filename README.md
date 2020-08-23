@@ -34,6 +34,8 @@
 | [i-Educar](https://github.com/portabilis/i-educar) | Open source software of education in Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
 | [Egua](https://github.com/eguatech/egua) | A programming language in portuguese to help beginners to start coding |[eguatech](https://github.com/eguatech) |![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)|
+| (RastreioBot)(https://github.com/GabrielRF/RastreioBot) | This is a Telegram Bot that tracks packages from the Brazilian Mail Service. | [GabrielRF](https://github.com/GabrielRF) | ![Stars](https://img.shields.io/github/stars/GabrielRF/RastreioBot?style=flat-square) |
+| [Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) | Serenata de Amor is an open project using artificial intelligence for social control of public administration. | [okfn-brasil](https://github.com/okfn-brasil) | ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square) |
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
@@ -147,8 +149,6 @@
 | [dateutil](https://github.com/dateutil/dateutil) | Useful extensions to the standard Python datetime features | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square) |
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
 | [isk-daemon](https://github.com/ricardocabral/iskdaemon) | Open source database for content-based (visual) image search. | [ricardocabral](https://github.com/ricardocabral/) | ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square) |
-| (RastreioBot)(https://github.com/GabrielRF/RastreioBot) | This is a Telegram Bot that tracks packages from the Brazilian Mail Service. | [GabrielRF](https://github.com/GabrielRF) | ![Stars](https://img.shields.io/github/stars/GabrielRF/RastreioBot?style=flat-square) |
-| [Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) | Serenata de Amor is an open project using artificial intelligence for social control of public administration. | [okfn-brasil](https://github.com/okfn-brasil) | ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square) |
 
 <a name="Lua"></a>
 ### Lua
