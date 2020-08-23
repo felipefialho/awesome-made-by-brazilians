@@ -10,6 +10,7 @@
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
+- [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
 - [Flutter](#flutter)
@@ -47,8 +48,10 @@
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [awesome-a11y](https://github.com/brunopulis/awesome-a11y) | A curate list about A11Y | [Bruno Pulis](https://github.com/brunopulis) | ![Stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y.svg?style=flat-square) |
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
-| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | A curated list of brazilian banks | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [Links-uteis](https://github.com/OfficialMarinho/Links-uteis) | List of awesome links | [OfficialMarinho](https://github.com/OfficialMarinho) | ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square) |
+| [Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros) | List os brazilian cities | [kelvins](https://github.com/kelvins) | ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square) |
 | [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
 | [4noobs](https://github.com/he4rt/4noobs) | List of repos with a Quick Start to alot of programming languages, frameworks and tools for beginners. | [He4rtDevs](https://github.com/he4rt) | ![Stars](https://img.shields.io/github/stars/he4rt/4noobs?style=flat-square) | 
@@ -62,6 +65,13 @@
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
+ <a name="csharp"></a>
+ ### C#
+ 
+ | Project | Description | Author | |
+ |--|--|--|--|
+ | [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Implement the most common used technologies | [EduardoPires](https://github.com/EduardoPires) | ![Stars](https://img.shields.io/github/stars/EduardoPires/EquinoxProject.svg?style=flat-square) | 
+ | [FluentValidator](https://github.com/andrebaltieri/FluentValidator) | A fluent way to use Notification Pattern with your entities | [andrebaltieri](https://github.com/andrebaltieri) | ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square) | 
 
 <a name="cpp"></a>
 ### C++
