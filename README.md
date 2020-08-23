@@ -6,7 +6,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 
-- [Apps](#apps)
+- [Apps & Softwares](#apps)
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
@@ -24,12 +24,13 @@
 - [Misc](#misc)
 
 <a name="apps"></a>
-### Apps
+### Apps & Softwares
 
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
 | [anonydog](https://github.com/anonydog/anonydog) | A bot to anonymize contribuitors |[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
+| [i-Educar](https://github.com/portabilis/i-educar) | Open source software of education in Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
 
 <a name="tools"></a>
 ### Tools
@@ -146,6 +147,8 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
+| (RastreioBot)(https://github.com/GabrielRF/RastreioBot) | This is a Telegram Bot that tracks packages from the Brazilian Mail Service. | [GabrielRF](https://github.com/GabrielRF) | ![Stars](https://img.shields.io/github/stars/GabrielRF/RastreioBot?style=flat-square) |
+| [Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) | Serenata de Amor is an open project using artificial intelligence for social control of public administration. | [okfn-brasil](https://github.com/okfn-brasil) | ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square) |
 
 <a name="Lua"></a>
 ### Lua
