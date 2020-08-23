@@ -18,6 +18,7 @@
 - [Python](#python)
 - [Lua](#lua)
 - [Elixir](#elixir)
+- [Ruby](#ruby)
 - [vim](#vim)
 - [Misc](#misc)
 
@@ -35,7 +36,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
- 
+
 <a name="awesomes"></a>
 ### Awesomes & Lists
 
@@ -50,7 +51,7 @@
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
 | [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
- 
+
 <a name="c"></a>
 ### C
 
@@ -59,7 +60,7 @@
 | [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
- 
+
 
 <a name="cpp"></a>
 ### C++
@@ -147,6 +148,14 @@
 |--|--|--|--|
 | [Elixir Programming Language](https://github.com/elixir-lang/elixir) | Elixir language, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim) | ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square) |
 
+<a name="Ruby"></a>
+### Ruby
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Rails gem devise](https://github.com/heartcombo/devise) | Rails gem devise for user authentication, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva | [carlosantoniodasilva](https://github.com/carlosantoniodasilva) | ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square) |
+| [Rails gem simpleform](https://github.com/heartcombo/simple_form) | Rails gem simple form for forms, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva | [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França | [rafaelfranca](https://github.com/rafaelfranca)| ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square) |
+
 <a name="vim"></a>
 ### vim
 
@@ -177,7 +186,7 @@ If you want to add project to this list, please, make sure that:
 ## Thanks
 
 - [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
-- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
+- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project
 - [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
