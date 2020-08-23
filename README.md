@@ -147,6 +147,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
+| [isk-daemon](https://github.com/ricardocabral/iskdaemon) | Open source database for content-based (visual) image search. | [ricardocabral](https://github.com/ricardocabral/) | ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square) |
 | (RastreioBot)(https://github.com/GabrielRF/RastreioBot) | This is a Telegram Bot that tracks packages from the Brazilian Mail Service. | [GabrielRF](https://github.com/GabrielRF) | ![Stars](https://img.shields.io/github/stars/GabrielRF/RastreioBot?style=flat-square) |
 | [Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) | Serenata de Amor is an open project using artificial intelligence for social control of public administration. | [okfn-brasil](https://github.com/okfn-brasil) | ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square) |
 
