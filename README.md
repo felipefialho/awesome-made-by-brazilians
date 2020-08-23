@@ -153,8 +153,8 @@
 
 | Project | Description | Author | |
 |--|--|--|--|
-| [Rails gem devise](https://github.com/heartcombo/devise) | Rails gem devise for user authentication, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva | [carlosantoniodasilva](https://github.com/carlosantoniodasilva) | ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square) |
-| [Rails gem simpleform](https://github.com/heartcombo/simple_form) | Rails gem simple form for forms, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva | [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França | [rafaelfranca](https://github.com/rafaelfranca)| ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square) |
+| [Rails gem devise](https://github.com/heartcombo/devise) | Rails gem devise for user authentication, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva) | ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square) |
+| [Rails gem simpleform](https://github.com/heartcombo/simple_form) | Rails gem simple form for forms, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França [rafaelfranca](https://github.com/rafaelfranca)| ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square) |
 
 <a name="vim"></a>
 ### vim
