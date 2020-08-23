@@ -20,6 +20,7 @@
 - [Python](#python)
 - [Lua](#lua)
 - [Elixir](#elixir)
+- [Ruby](#ruby)
 - [vim](#vim)
 - [Misc](#misc)
 
@@ -67,7 +68,7 @@
 | [Lwan](https://github.com/lpereira/lwan) | High performance HTTP server | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/lwan.svg?style=flat-square) |
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
- 
+
  <a name="csharp"></a>
  ### C#
  
@@ -170,6 +171,14 @@
 |--|--|--|--|
 | [Elixir Programming Language](https://github.com/elixir-lang/elixir) | Elixir language, created by a Brazilian, José Valim | [josevalim](https://github.com/josevalim) | ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square) |
 
+<a name="Ruby"></a>
+### Ruby
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Rails gem devise](https://github.com/heartcombo/devise) | Rails gem devise for user authentication | José Valim [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva) | ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square) |
+| [Rails gem simpleform](https://github.com/heartcombo/simple_form) | Rails gem simple form for forms | José Valim [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França [rafaelfranca](https://github.com/rafaelfranca)| ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square) |
+
 <a name="vim"></a>
 ### vim
 
@@ -200,7 +209,7 @@ If you want to add project to this list, please, make sure that:
 ## Thanks
 
 - [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
-- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project 
+- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project
 - [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
