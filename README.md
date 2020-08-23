@@ -37,6 +37,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
+| [Egua](https://github.com/eguatech/egua) | A programming language in portuguese to help beginners to start coding |[eguatech](https://github.com/eguatech) |![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)|
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
