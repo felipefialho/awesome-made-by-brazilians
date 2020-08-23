@@ -2,13 +2,15 @@
 
 > A collection of amazing open source projects built by brazilian developers
 
-[![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/license)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-brazilians/graphs/contributors)
+[![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
-- [Apps](#apps)
+
+- [Apps & Softwares](#apps)
 - [Tools](#tools)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
+- [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
 - [Flutter](#flutter)
@@ -22,12 +24,13 @@
 - [Misc](#misc)
 
 <a name="apps"></a>
-### Apps
+### Apps & Softwares
 
 | Project | Description | Author | |
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
 | [anonydog](https://github.com/anonydog/anonydog) | A bot to anonymize contribuitors |[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
+| [i-Educar](https://github.com/portabilis/i-educar) | Open source software of education in Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
 
 <a name="tools"></a>
 ### Tools
@@ -35,6 +38,7 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
+| [Egua](https://github.com/eguatech/egua) | A programming language in portuguese to help beginners to start coding |[eguatech](https://github.com/eguatech) |![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)|
  
 <a name="awesomes"></a>
 ### Awesomes & Lists
@@ -46,10 +50,13 @@
 | [awesome-svg](https://github.com/willianjusten/awesome-svg) | A curated list of SVG | [willianjusten](https://github.com/willianjusten) | ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square) |
 | [awesome-a11y](https://github.com/brunopulis/awesome-a11y) | A curate list about A11Y | [Bruno Pulis](https://github.com/brunopulis) | ![Stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y.svg?style=flat-square) |
 | [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) | Companies with remote job on Brazil | [lerrua](https://github.com/lerrua) | ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square) |
-| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | List of brazilian bankings | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
+| [Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) | A curated list of brazilian banks | [guibranco](https://github.com/guibranco) | ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square) |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square) |
+| [Links-uteis](https://github.com/OfficialMarinho/Links-uteis) | List of awesome links | [OfficialMarinho](https://github.com/OfficialMarinho) | ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square) |
+| [Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros) | List os brazilian cities | [kelvins](https://github.com/kelvins) | ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square) |
 | [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
+| [4noobs](https://github.com/he4rt/4noobs) | List of repos with a Quick Start to alot of programming languages, frameworks and tools for beginners. | [He4rtDevs](https://github.com/he4rt) | ![Stars](https://img.shields.io/github/stars/he4rt/4noobs?style=flat-square) | 
  
 <a name="c"></a>
 ### C
@@ -60,6 +67,13 @@
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
  
+ <a name="csharp"></a>
+ ### C#
+ 
+ | Project | Description | Author | |
+ |--|--|--|--|
+ | [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Implement the most common used technologies | [EduardoPires](https://github.com/EduardoPires) | ![Stars](https://img.shields.io/github/stars/EduardoPires/EquinoxProject.svg?style=flat-square) | 
+ | [FluentValidator](https://github.com/andrebaltieri/FluentValidator) | A fluent way to use Notification Pattern with your entities | [andrebaltieri](https://github.com/andrebaltieri) | ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square) | 
 
 <a name="cpp"></a>
 ### C++
@@ -100,6 +114,7 @@
 | [goreleaser](https://github.com/goreleaser/goreleaser) | Deliver Go binaries as fast and easily as possible | [caarlos0](https://github.com/caarlos0) | ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square) |
 | [pREST](https://github.com/prest/prest) | (PostgreSQL REST), <br> simplify and accelerate development, instant, realtime,<br>  high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
 | [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
+| [go-dockerclient](https://github.com/fsouza/go-dockerclient) | Go client for the Docker Engine API | [Francisco Souza](https://github.com/fsouza) | ![Stars](https://img.shields.io/github/stars/fsouza/go-dockerclient?style=flat-square) |
 
 <a name="js"></a>
 ### JavaScript
@@ -124,7 +139,7 @@
 |--|--|--|--|
 | [Validation](https://github.com/Respect/Validation) | The most awesome validation engine ever created for PHP | [henriquemoody](https://github.com/henriquemoody) | ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square) |
 | [Corcel](https://github.com/corcel/corcel) | WordPress backend with Laravel or any PHP application | [jgrossi](https://github.com/jgrossi) | ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square) |
-| [i-Educar](https://github.com/portabilis/i-educar) | Lançando o maior software livre de educação do Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
+| [Siler](https://github.com/leocavalcante/siler) | Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions | [leocavalcante](https://github.com/leocavalcante) | ![Stars](https://img.shields.io/github/stars/leocavalcante/siler?style=flat-square) |
 
 <a name="python"></a>
 ### Python
