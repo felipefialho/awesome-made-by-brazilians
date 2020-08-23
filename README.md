@@ -30,6 +30,7 @@
 |--|--|--|--|
 | [WWDC](https://github.com/insidegui/WWDC) | The unofficial WWDC app for macOS | [insidegui](https://github.com/insidegui) | ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square) |
 | [anonydog](https://github.com/anonydog/anonydog) | A bot to anonymize contribuitors |[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
+| [pliim](https://github.com/zehfernandes/pliim) | Safely share your screen with one click |[zehfernandes](https://github.com/zehfernandes) |![Stars](https://img.shields.io/github/stars/zehfernandes/pliim?style=flat-square) |
 | [i-Educar](https://github.com/portabilis/i-educar) | Open source software of education in Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
 
 <a name="tools"></a>
