@@ -131,6 +131,7 @@
 
 | Project | Description | Author | |
 |--|--|--|--|
+| [dateutil](https://github.com/dateutil/dateutil) | Useful extensions to the standard Python datetime features | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square) |
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
 
 <a name="Lua"></a>
