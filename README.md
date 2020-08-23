@@ -6,8 +6,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
 
-- [Apps & Softwares](#apps)
-- [Tools](#tools)
+- [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
 - [C#](#csharp)
@@ -25,7 +24,7 @@
 - [Misc](#misc)
 
 <a name="apps"></a>
-### Apps & Softwares
+### Apps, Softwares & Tools
 
 | Project | Description | Author | |
 |--|--|--|--|
@@ -33,12 +32,6 @@
 | [anonydog](https://github.com/anonydog/anonydog) | A bot to anonymize contribuitors |[anonydog](https://github.com/anonydog) |![Stars](https://img.shields.io/github/stars/anonydog/anonydog?style=flat-square)|
 | [pliim](https://github.com/zehfernandes/pliim) | Safely share your screen with one click |[zehfernandes](https://github.com/zehfernandes) |![Stars](https://img.shields.io/github/stars/zehfernandes/pliim?style=flat-square) |
 | [i-Educar](https://github.com/portabilis/i-educar) | Open source software of education in Brasil! | [portabilis](https://github.com/portabilis/i-educar) | ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square) |
-
-<a name="tools"></a>
-### Tools
-
-| Project | Description | Author | |
-|--|--|--|--|
 | [Refined Bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) | Chrome and Firefox extension that improves Bitbucket's user experience | [andremw](https://github.com/andremw) | ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square) |
 | [Egua](https://github.com/eguatech/egua) | A programming language in portuguese to help beginners to start coding |[eguatech](https://github.com/eguatech) |![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)|
  
