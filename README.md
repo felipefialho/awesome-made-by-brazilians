@@ -116,6 +116,7 @@
 | [pREST](https://github.com/prest/prest) | (PostgreSQL REST), <br> simplify and accelerate development, instant, realtime,<br>  high-performance on any Postgres application, existing or new | started by [Avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square) |
 | [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
 | [go-dockerclient](https://github.com/fsouza/go-dockerclient) | Go client for the Docker Engine API | [Francisco Souza](https://github.com/fsouza) | ![Stars](https://img.shields.io/github/stars/fsouza/go-dockerclient?style=flat-square) |
+| [check](https://github.com/go-check/check) | Rich testing for the Go language | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/go-check/check?style=flat-square) |
 
 <a name="js"></a>
 ### JavaScript
