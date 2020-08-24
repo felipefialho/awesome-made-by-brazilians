@@ -5,13 +5,13 @@
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/frontend-challenges/graphs/contributors)
 
-
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
+- [Delphi](#delphi)
 - [Dart](#dart)
 - [Go](#go)
 - [JavaScript](#js)
@@ -92,6 +92,15 @@
 | [CSS Components](https://github.com/felipefialho/css-components) | Using the power of CSS and without Javascript | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | The brazilian CSS preprocessor writen in NodeJS | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
 
+<a name="delphi"></a>
+### Delphi
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Horse](https://github.com/HashLoad/horse) | Horse is an Express inspired web framework for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square) |
+| [Boss](https://github.com/HashLoad/boss) | Dependency Manager for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square) |
+| [DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize) | Set of features to make working with JSON and DataSet simple. | [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100) | ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square) |
+
 <a name="dart"></a>
 ### Dart
 
@@ -116,7 +125,6 @@
 | [check](https://github.com/go-check/check) | Rich testing for the Go language | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/go-check/check?style=flat-square) |
 | [tsuru](https://github.com/tsuru/tsuru) | Open source, extensible and Docker-based Platform as a Service (PaaS) | [tsuru](https://github.com/tsuru) | ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square) |
 
-
 <a name="js"></a>
 ### JavaScript
 
@@ -136,7 +144,6 @@
 | [react-native-3dcube-navigation](https://github.com/zehfernandes/react-native-3dcube-navigation) | Cube transition for React Native | [zehfernandes](https://github.com/zehfernandes/) | ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The ultimate Free Open Source Solution for team communications | [RocketChat](https://github.com/RocketChat) | ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square) |
 | [Glorious Demo](https://github.com/glorious-codes/glorious-demo) | The easiest way of creating animations to show your code in action. | [Rafael Camargo](https://github.com/rafaelcamargo) | ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square) |
-
 
 <a name="php"></a>
 ### PHP
@@ -160,8 +167,6 @@
 | [splinter](https://github.com/cobrateam/splinter) | splinter - python test framework for web applications | [cobrateam](https://github.com/cobrateam) | ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square) |
 | [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) | HTTP client mocking tool for Python - inspired by Fakeweb for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/HTTPretty?style=flat-square) |
 | [lettuce](https://github.com/gabrielfalcao/lettuce) | Behavior-driven-development tool for python, inspired by Cucumber for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/lettuce?style=flat-square) |
-
-
 
 <a name="Lua"></a>
 ### Lua
