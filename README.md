@@ -21,6 +21,7 @@
 - [Elixir](#elixir)
 - [Ruby](#ruby)
 - [vim](#vim)
+- [Shell](#shell)
 - [Misc](#misc)
 
 <a name="apps"></a>
@@ -198,6 +199,14 @@
 | Project | Description | Author | |
 |--|--|--|--|
 | [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | generator provides a simple method of generating a .vimrc configuration for vim | started by [avelino](https://github.com/avelino) | ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square) |
+
+
+<a name="shell"></a>
+### Shell
+| Project | Description | Author | |
+|--|--|--|--|
+| [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) | An oh-my-zsh shell theme based on the Powerline Vim plugin | [caiogondim](https://github.com/caiogondim) | ![Stars](https://img.shields.io/github/stars/caiogondim/bullet-train.zsh?style=flat-square) |
+
 
 <a name="misc"></a>
 ### Misc
