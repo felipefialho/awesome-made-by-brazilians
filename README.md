@@ -149,6 +149,7 @@
 | [dateutil](https://github.com/dateutil/dateutil) | Useful extensions to the standard Python datetime features | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square) |
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
 | [isk-daemon](https://github.com/ricardocabral/iskdaemon) | Open source database for content-based (visual) image search. | [ricardocabral](https://github.com/ricardocabral/) | ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square) |
+| [prettyconf](https://github.com/osantana/prettyconf) | A extensible library for Settings/Code separation | [osantana](https://github.com/osantana/) | ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square) |
 
 <a name="Lua"></a>
 ### Lua
