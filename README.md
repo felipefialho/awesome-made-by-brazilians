@@ -114,6 +114,8 @@
 | [ShellHub](https://github.com/shellhub-io/shellhub) | ShellHub enables teams to easily access any Linux device behind firewall and NAT | [gustavosbarreto](https://github.com/gustavosbarreto) | ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square) |
 | [go-dockerclient](https://github.com/fsouza/go-dockerclient) | Go client for the Docker Engine API | [Francisco Souza](https://github.com/fsouza) | ![Stars](https://img.shields.io/github/stars/fsouza/go-dockerclient?style=flat-square) |
 | [check](https://github.com/go-check/check) | Rich testing for the Go language | [niemeyer](https://github.com/niemeyer) | ![Stars](https://img.shields.io/github/stars/go-check/check?style=flat-square) |
+| [tsuru](https://github.com/tsuru/tsuru) | Open source, extensible and Docker-based Platform as a Service (PaaS) | [tsuru](https://github.com/tsuru) | ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square) |
+
 
 <a name="js"></a>
 ### JavaScript
@@ -132,6 +134,8 @@
 | [Unform](https://github.com/Rocketseat/unform) | Easy peasy highly scalable ReactJS & React Native forms! :rocket: | [Rocketseat](https://github.com/Rocketseat) | ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square) |
 | [subtitle.js](https://github.com/gsantiago/subtitle.js) | Parse and manipulate subtitles | [gsantiago](https://github.com/gsantiago) | ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square) |
 | [react-native-3dcube-navigation](https://github.com/zehfernandes/react-native-3dcube-navigation) | Cube transition for React Native | [zehfernandes](https://github.com/zehfernandes/) | ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square) |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The ultimate Free Open Source Solution for team communications | [RocketChat](https://github.com/RocketChat) | ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square) |
+
 
 <a name="php"></a>
 ### PHP
@@ -151,6 +155,8 @@
 | [Dynaconf](https://github.com/rochacbruno/dynaconf) | Configuration Management for Python | [rochacbruno](https://github.com/rochacbruno/) | ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square) |
 | [isk-daemon](https://github.com/ricardocabral/iskdaemon) | Open source database for content-based (visual) image search. | [ricardocabral](https://github.com/ricardocabral/) | ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square) |
 | [prettyconf](https://github.com/osantana/prettyconf) | A extensible library for Settings/Code separation | [osantana](https://github.com/osantana/) | ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square) |
+| [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate | [Vinta Software](https://github.com/vintasoftware) | ![Stars](https://img.shields.io/github/stars/vintasoftware/django-react-boilerplate?style=flat-square) | 
+
 
 <a name="Lua"></a>
 ### Lua
