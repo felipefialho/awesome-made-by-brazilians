@@ -97,8 +97,9 @@
 
 | Project | Description | Author | |
 |--|--|--|--|
-| [Horse](https://github.com/HashLoad/horse) | Horse is an Express inspired web framework for Delphi. | [hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square) |
-| [Boss](https://github.com/HashLoad/boss) | Dependency Manager for Delphi. | [hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square) |
+| [Horse](https://github.com/HashLoad/horse) | Horse is an Express inspired web framework for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square) |
+| [Boss](https://github.com/HashLoad/boss) | Dependency Manager for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square) |
+| [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi) | REST Client for Delphi. | [Vinicius Sanchez](https://github.com/viniciussanchez) | ![Stars](https://img.shields.io/github/stars/viniciussanchez/RESTRequest4Delphi.svg?style=flat-square) |
 
 <a name="flutter"></a>
 ### Flutter
