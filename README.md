@@ -135,6 +135,7 @@
 | [subtitle.js](https://github.com/gsantiago/subtitle.js) | Parse and manipulate subtitles | [gsantiago](https://github.com/gsantiago) | ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square) |
 | [react-native-3dcube-navigation](https://github.com/zehfernandes/react-native-3dcube-navigation) | Cube transition for React Native | [zehfernandes](https://github.com/zehfernandes/) | ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The ultimate Free Open Source Solution for team communications | [RocketChat](https://github.com/RocketChat) | ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square) |
+| [Glorious Demo](https://github.com/glorious-codes/glorious-demo) | The easiest way of creating animations to show your code in action. | [Rafael Camargo](https://github.com/rafaelcamargo) | ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square) |
 
 
 <a name="php"></a>
