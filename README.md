@@ -157,6 +157,10 @@
 | [isk-daemon](https://github.com/ricardocabral/iskdaemon) | Open source database for content-based (visual) image search. | [ricardocabral](https://github.com/ricardocabral/) | ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square) |
 | [prettyconf](https://github.com/osantana/prettyconf) | A extensible library for Settings/Code separation | [osantana](https://github.com/osantana/) | ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square) |
 | [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) | Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate | [Vinta Software](https://github.com/vintasoftware) | ![Stars](https://img.shields.io/github/stars/vintasoftware/django-react-boilerplate?style=flat-square) | 
+| [splinter](https://github.com/cobrateam/splinter) | splinter - python test framework for web applications | [cobrateam](https://github.com/cobrateam) | ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square) |
+| [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) | HTTP client mocking tool for Python - inspired by Fakeweb for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/HTTPretty?style=flat-square) |
+| [lettuce](https://github.com/gabrielfalcao/lettuce) | Behavior-driven-development tool for python, inspired by Cucumber for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/lettuce?style=flat-square) |
+
 
 
 <a name="Lua"></a>
