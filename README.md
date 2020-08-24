@@ -100,6 +100,7 @@
 | [Horse](https://github.com/HashLoad/horse) | Horse is an Express inspired web framework for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square) |
 | [Boss](https://github.com/HashLoad/boss) | Dependency Manager for Delphi. | [Hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square) |
 | [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi) | REST Client for Delphi. | [Vinicius Sanchez](https://github.com/viniciussanchez) | ![Stars](https://img.shields.io/github/stars/viniciussanchez/RESTRequest4Delphi.svg?style=flat-square) |
+| [DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize) | Set of features to make working with JSON and DataSet simple. | [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100) | ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square) |
 
 <a name="flutter"></a>
 ### Flutter
