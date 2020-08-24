@@ -308,6 +308,10 @@
   JS Lorem Ipsum generator  
   ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square)
 
+- **[Node Cron](https://github.com/node-cron/node-cron)** by [Lucas Merencia](https://github.com/merencia)  
+  Tiny task scheduler in pure JavaScript for node.js based on GNU crontab.  
+  ![Stars](https://img.shields.io/github/stars/node-cron/node-cron?style=flat-square)
+
 - **[qualy-presenter](https://github.com/Qualy-org/qualy-presenter)** by [willianjusten](https://github.com/willianjusten)  
   A boilerplate to create presentations  
   ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square)
