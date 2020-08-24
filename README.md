@@ -12,6 +12,7 @@
 - [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
+- [Delphi](#delphi)
 - [Flutter](#flutter)
 - [Go](#go)
 - [JavaScript](#js)
@@ -90,6 +91,13 @@
 | [CSS Loader](https://github.com/raphaelfabeni/css-loader) | Simple loaders for your web applications using only one div and pure CSS | [raphaelfabeni](https://github.com/raphaelfabeni) | ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square) |
 | [CSS Components](https://github.com/felipefialho/css-components) | Using the power of CSS and without Javascript | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | The brazilian CSS preprocessor writen in NodeJS | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
+
+<a name="delphi"></a>
+### Delphi
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Horse](https://github.com/HashLoad/horse) | Horse is an Express inspired web framework for Delphi. | [hashload](https://github.com/HashLoad) | ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square) |
 
 <a name="flutter"></a>
 ### Flutter
