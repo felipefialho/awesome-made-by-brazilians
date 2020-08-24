@@ -148,6 +148,7 @@
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The ultimate Free Open Source Solution for team communications | [RocketChat](https://github.com/RocketChat) | ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square) |
 | [Glorious Demo](https://github.com/glorious-codes/glorious-demo) | The easiest way of creating animations to show your code in action. | [Rafael Camargo](https://github.com/rafaelcamargo) | ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square) |
 | [clappr](https://github.com/clappr/clappr) | An extensible media player for the web | [clappr](https://github.com/clappr) | ![Stars](https://img.shields.io/github/stars/clappr/clappr?style=flat-square) |
+| [sharer.js](https://github.com/ellisonleao/sharer.js) | A lightweight js lib to create custom social share components for your website with no extra dependencies. | [Ellison Leão](https://github.com/ellisonleao) | ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square) |
 
 <a name="php"></a>
 ### PHP
