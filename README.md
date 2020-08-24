@@ -167,6 +167,8 @@
 | [splinter](https://github.com/cobrateam/splinter) | splinter - python test framework for web applications | [cobrateam](https://github.com/cobrateam) | ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square) |
 | [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) | HTTP client mocking tool for Python - inspired by Fakeweb for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/HTTPretty?style=flat-square) |
 | [lettuce](https://github.com/gabrielfalcao/lettuce) | Behavior-driven-development tool for python, inspired by Cucumber for Ruby | [gabrielfalcao](https://github.com/gabrielfalcao) | ![Stars](https://img.shields.io/github/stars/gabrielfalcao/lettuce?style=flat-square) |
+| [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) | Tenant support for Django using PostgreSQL schemas | [bernardopires](https://github.com/bernardopires/django-tenant-schemas) | ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square) |
+
 
 <a name="Lua"></a>
 ### Lua
