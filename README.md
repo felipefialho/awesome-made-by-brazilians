@@ -54,7 +54,7 @@
 | [awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs) | An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR. | [Mitrut](https://github.com/wmitrut) | ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square) |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | A curated list of awesome game datasets, and tools to artificial intelligence in games | [leomaurodesenv](https://github.com/leomaurodesenv) | ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square) |
 | [4noobs](https://github.com/he4rt/4noobs) | List of repos with a Quick Start to alot of programming languages, frameworks and tools for beginners. | [He4rtDevs](https://github.com/he4rt) | ![Stars](https://img.shields.io/github/stars/he4rt/4noobs?style=flat-square) | 
- 
+
 <a name="c"></a>
 ### C
 
@@ -64,6 +64,7 @@
 | [HardInfo](https://github.com/lpereira/hardinfo) | System profiler and benchmarking tool | [lpereira](https://github.com/lpereira) | ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square) |
 | [htop](https://github.com/hishamhm/htop) | Interactive process viewer | [hishamhm](https://github.com/hishamhm) | ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square) |
 | [Binn](https://github.com/liteserver/binn) | Binary serialization | [kroggen](https://github.com/kroggen) | ![Stars](https://img.shields.io/github/stars/liteserver/binn.svg?style=flat-square) |
+| [ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) | FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more | [leandromoreira](https://github.com/leandromoreira) | ![Stars](https://img.shields.io/github/stars/leandromoreira/ffmpeg-libav-tutorial?style=flat-square) |
 
  <a name="csharp"></a>
  ### C#
