@@ -304,7 +304,7 @@
   A simple and fast boilerplate for creating statics PWA  
   ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square)
 
-- **[mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum)** by [diegofelipece](https://github.com/diegofelipece)
+- **[mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum)** by [diegofelipece](https://github.com/diegofelipece)  
   JS Lorem Ipsum generator  
   ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square)
 
@@ -370,7 +370,7 @@
 
 - **[django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas)** by [bernardopires](https://github.com/bernardopires/django-tenant-schemas)  
   Tenant support for Django using PostgreSQL schemas  
-  [Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
 
 - **[Dynaconf](https://github.com/rochacbruno/dynaconf)** by[rochacbruno](https://github.com/rochacbruno/)  
   Configuration Management for Python  
