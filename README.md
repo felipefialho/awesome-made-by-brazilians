@@ -20,6 +20,7 @@
 - [Lua](#lua)
 - [Elixir](#elixir)
 - [Ruby](#ruby)
+- [Typescript](#typescript)
 - [vim](#vim)
 - [Misc](#misc)
 
@@ -194,6 +195,14 @@
 | [Rails gem devise](https://github.com/heartcombo/devise) | Rails gem devise for user authentication | José Valim [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva) | ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square) |
 | [Rails gem simpleform](https://github.com/heartcombo/simple_form) | Rails gem simple form for forms | José Valim [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França [rafaelfranca](https://github.com/rafaelfranca)| ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square) |
 | [browser](https://github.com/fnando/browser) | Do some browser detection with Ruby. Includes ActionController integration | [fnando](https://github.com/fnando) | ![Stars](https://img.shields.io/github/stars/fnando/browser?style=flat-square) |
+
+
+<a name="Typescript"></a>
+### Typescript
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) | Project Manager Extension for Visual Studio Code | [alefragnani](https://github.com/alefragnani) | ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square) |
 
 
 <a name="vim"></a>
