@@ -335,6 +335,10 @@
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
+ 
+ - **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
+  Create your own social share buttons with no extra dependencies   
+  ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square)
 
 <a name="Lua"></a>
 
