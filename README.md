@@ -148,6 +148,9 @@
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The ultimate Free Open Source Solution for team communications | [RocketChat](https://github.com/RocketChat) | ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square) |
 | [Glorious Demo](https://github.com/glorious-codes/glorious-demo) | The easiest way of creating animations to show your code in action. | [Rafael Camargo](https://github.com/rafaelcamargo) | ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square) |
 | [clappr](https://github.com/clappr/clappr) | An extensible media player for the web | [clappr](https://github.com/clappr) | ![Stars](https://img.shields.io/github/stars/clappr/clappr?style=flat-square) |
+| [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 33 concepts every JavaScript developer should know | [leonardomso](https://github.com/leonardomso) | ![Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=flat-square) |
+| [fast-memoize.js](https://github.com/caiogondim/fast-memoize.js) | Fastest possible memoization library | [caiogondim](https://github.com/caiogondim) | ![Stars](https://img.shields.io/github/stars/caiogondim/fast-memoize.js?style=flat-square) |
+
 
 <a name="php"></a>
 ### PHP
