@@ -12,7 +12,7 @@
 - [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
-- [Flutter](#flutter)
+- [Dart](#dart)
 - [Go](#go)
 - [JavaScript](#js)
 - [PHP](#php)
@@ -92,8 +92,8 @@
 | [CSS Components](https://github.com/felipefialho/css-components) | Using the power of CSS and without Javascript | [felipefialho](https://github.com/felipefialho) | ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square) |
 | [Banana CSS](https://github.com/bananacss/bananacss) | The brazilian CSS preprocessor writen in NodeJS | [afonsopacifer](https://github.com/afonsopacifer) | ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square) |
 
-<a name="flutter"></a>
-### Flutter
+<a name="dart"></a>
+### Dart
 
 | Project | Description | Author | |
 |--|--|--|--|
