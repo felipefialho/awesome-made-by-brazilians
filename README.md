@@ -35,7 +35,7 @@
 - **[Egua](https://github.com/eguatech/egua)** by [eguatech](https://github.com/eguatech)  
   A programming language in portuguese to help beginners to start  
   ![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)
-  
+
 - **[DevHub](https://github.com/devhubapp/devhub)** by [brunolemos](https://github.com/brunolemos)  
   GitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)  
   ![Stars](https://img.shields.io/github/stars/devhubapp/devhub?style=flat-square)
@@ -224,7 +224,6 @@
   Game engine 2d pra Flutter  
   ![Stars](https://img.shields.io/github/stars/flame-engine/flame.svg?style=flat-square)
 
-
 - **[Photo view](https://github.com/renancaraujo/photo_view)** by [renancaraujo](https://github.com/renancaraujo)  
   Widget pra galeria de imagens  
   ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square)
@@ -272,7 +271,7 @@
 - **[ShellHub](https://github.com/shellhub-io/shellhub)** by [gustavosbarreto](https://github.com/gustavosbarreto)  
   ShellHub enables teams to easily access any Linux device behind firewall and NAT  
   ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square)
-  
+
 - **[Task](https://github.com/go-task/task)** by [andreynering](https://github.com/andreynering)
   Task is a task runner / build tool, alternative to Make
   ![Stars](https://img.shields.io/github/stars/go-task/task.svg?style=flat-square)
@@ -288,7 +287,7 @@
 - **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** by [leonardomso](https://github.com/leonardomso)  
   33 concepts every JavaScript developer should know  
   ![Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=flat-square)
-  
+
 - **[ajax](https://github.com/fdaciuk/ajax)** by [fdaciuk](https://github.com/fdaciuk)  
   Ajax module in Vanilla JS  
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
@@ -345,12 +344,16 @@
   Cube transition for React Native  
   ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square)
 
+- **[React95](React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
+  A React components library with Win95 UI
+  ![Stars](https://img.shields.io/github/stars/React95/React95?style=flat-square)
+
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** by [RocketChat](https://github.com/RocketChat)  
   The ultimate Free Open Source Solution for team communications  
   ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square)
-  
- - **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
-  Create your own social share buttons with no extra dependencies   
+
+- **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
+  Create your own social share buttons with no extra dependencies  
   ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square)
 
 - **[subtitle.js](https://github.com/gsantiago/subtitle.js)** by [gsantiago](https://github.com/gsantiago)  
