@@ -263,6 +263,10 @@
 - **[ShellHub](https://github.com/shellhub-io/shellhub)** by [gustavosbarreto](https://github.com/gustavosbarreto)  
   ShellHub enables teams to easily access any Linux device behind firewall and NAT  
   ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square)
+  
+- **[Task](https://github.com/go-task/task)** by [andreynering](https://github.com/andreynering)
+  Task is a task runner / build tool, alternative to Make
+  ![Stars](https://img.shields.io/github/stars/go-task/task.svg?style=flat-square)
 
 - **[tsuru](https://github.com/tsuru/tsuru)** by [tsuru](https://github.com/tsuru)  
   Open source, extensible and Docker-based Platform as a Service (PaaS)  
