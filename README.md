@@ -15,6 +15,7 @@
 - [Delphi](#delphi)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Java](#java)
 - [JavaScript](#js)
 - [Lua](#lua)
 - [PHP](#php)
@@ -269,6 +270,12 @@
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
 
 <a name="js"></a>
+
+### Java
+
+- **[webBudget](https://github.com/arthurgregorio/web-budget)** by [arthurgregorio](https://github.com/arthurgregorio)  
+  A free and open-source software to control your personal finances or of your small company  
+  ![Stars](https://img.shields.io/github/stars/arthurgregorio/web-budget?style=flat-square)
 
 ### JavaScript
 
