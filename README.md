@@ -64,6 +64,10 @@
   Chrome and Firefox extension that improves Bitbucket's user experience  
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
 
+- **[webBudget](https://github.com/arthurgregorio/web-budget)** by [arthurgregorio](https://github.com/arthurgregorio)  
+  A free and open-source software to control your personal finances or of your small company  
+  ![Stars](https://img.shields.io/github/stars/arthurgregorio/web-budget?style=flat-square)
+
 - **[WWDC](https://github.com/insidegui/WWDC)** by [insidegui](https://github.com/insidegui)  
   The unofficial WWDC app for macOS  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
