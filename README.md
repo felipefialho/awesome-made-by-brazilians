@@ -95,6 +95,10 @@
 - **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros)** by [guibranco](https://github.com/guibranco)  
   A curated list of brazilian banks  
   ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square)
+  
+- **[CSIRT](https://github.com/Spacial/csirt)** by [Spacial](https://github.com/Spacial/)
+  CSIRT is an awesome curated list of links and resources in security and csirt daily activities. 
+  ![Stars](https://img.shields.io/github/stars/spacial/csirt.svg?style=flat-square)
 
 - **[game-datasets](https://github.com/leomaurodesenv/game-datasets)** by [leomaurodesenv](https://github.com/leomaurodesenv)  
   A curated list of awesome game datasets, and tools to artificial intelligence in games  
