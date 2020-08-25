@@ -285,8 +285,8 @@
 
 ### JavaScript
 
-- **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** by [leonardomso](https://github.com/leonardomso)
-  33 concepts every JavaScript developer should know
+- **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** by [leonardomso](https://github.com/leonardomso)  
+  33 concepts every JavaScript developer should know  
   ![Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=flat-square)
   
 - **[ajax](https://github.com/fdaciuk/ajax)** by [fdaciuk](https://github.com/fdaciuk)  
@@ -313,8 +313,8 @@
   Docz makes it easy to write and publish beautiful interactive documentation for your code  
   ![Stars](https://img.shields.io/github/stars/pedronauck/docz.svg?style=flat-square)
 
-- **[fast-memoize.js](https://github.com/caiogondim/fast-memoize.js)** by [caiogondim](https://github.com/caiogondim)
-  Fastest possible memoization library
+- **[fast-memoize.js](https://github.com/caiogondim/fast-memoize.js)** by [caiogondim](https://github.com/caiogondim)  
+  Fastest possible memoization library  
   ![Stars](https://img.shields.io/github/stars/caiogondim/fast-memoize.js?style=flat-square)
 
 - **[Glorious Demo](https://github.com/glorious-codes/glorious-demo)** by [Rafael Camargo](https://github.com/rafaelcamargo)  
