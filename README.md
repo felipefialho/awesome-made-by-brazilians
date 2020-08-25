@@ -450,19 +450,19 @@
 
 It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
 
-If you want to add project to this list, please, make sure that:
+If you want to add a project to this list, please make sure that:
 
-- The project was created by the developers born in Brazil
-- The project can't be just an personal, experimental or sample project
-- The project has more that **100 stars** on Github
-- Put in alphabetical order
-- If they do, feel free to make a PR!
+- The project was created by developers born in Brazil
+- The project can't be just a personal, experimental or sample project
+- The project has more than **100 stars** on Github
+- Place them in alphabetical order
+- If they meet the requirements above, feel free to create a PR!
 
 ## Thanks
 
-- [Zeno Rocha](https://github.com/zenorocha) by ideia in 2018 (😂)
-- [schirrel](https://github.com/schirrel) to [remember me](https://github.com/frontendbr/forum/issues/1882) about this project
-- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideias to improve template and change the project name (initially `made-in-brazil`).
+- [Zeno Rocha](https://github.com/zenorocha) for the idea in 2018 (😂)
+- [schirrel](https://github.com/schirrel) for [reminding me](https://github.com/frontendbr/forum/issues/1882) about this project
+- [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) for some ideas to improve template and change the project name (initially `made-in-brazil`).
 
 ## License
 
