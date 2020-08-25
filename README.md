@@ -35,6 +35,10 @@
 - **[Egua](https://github.com/eguatech/egua)** by [eguatech](https://github.com/eguatech)  
   A programming language in portuguese to help beginners to start  
   ![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)
+  
+- **[DevHub](https://github.com/devhubapp/devhub)** by [brunolemos](https://github.com/brunolemos)  
+  GitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)  
+  ![Stars](https://img.shields.io/github/stars/devhubapp/devhub?style=flat-square)
 
 - **[FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms)** by [Otacilio Maia](https://github.com/OtacilioN)  
   A repository with a bunch of funny algorithms, beginners friendly  
