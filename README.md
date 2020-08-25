@@ -129,7 +129,7 @@
   ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square)
   
 - **[modelo de contrato](https://github.com/apsantos-dev/modelo-de-contrato)** by [apsantos-dev](https://github.com/apsantos-dev)  
-  Assist in the creation of a document to formalize the provision of some type of service.
+  Assist in the creation of a document to formalize the provision of some type of service.  
   ![Stars](https://img.shields.io/github/stars/apsantos-dev/modelo-de-contrato.svg?style=flat-square)
 
 <a name="c"></a>
