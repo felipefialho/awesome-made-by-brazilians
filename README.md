@@ -313,6 +313,10 @@
   The easiest way of creating animations to show your code in action  
   ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square)
 
+- **[JavaScript Docs](https://javascript-docs.netlify.app/)** by [brunormferreira](https://github.com/brunormferreira) and [leonardocesca](https://github.com/leonardocesca)  
+  A JavaScript Documentation made in PT-BR.  
+  ![Stars](https://img.shields.io/github/stars/leonardocesca/js-docs?style=flat-square)
+
 - **[kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate)** by [felipefialho](https://github.com/felipefialho)  
   A simple and fast boilerplate for creating statics PWA  
   ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square)
