@@ -437,11 +437,11 @@
   Do some browser detection with Ruby. Includes ActionController integration  
   ![Stars](https://img.shields.io/github/stars/fnando/browser?style=flat-square)
 
-- **[Rails gem devise](https://github.com/heartcombo/devise)** by [josevalim](https://github.com/josevalim), Carlos Antonio da Silva  
+- **[Rails gem devise](https://github.com/heartcombo/devise)** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva). 
   Rails gem devise for user authentication  
   ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square)
 
-- **[Rails gem simpleform](https://github.com/heartcombo/simple_form)** by [josevalim](https://github.com/josevalim), Carlos Antonio da Silva [carlosantoniodasilva](https://github.com/carlosantoniodasilva), Rafael França [rafaelfranca](https://github.com/rafaelfranca)  
+- **[Rails gem simpleform](https://github.com/heartcombo/simple_form)** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva), [rafaelfranca](https://github.com/rafaelfranca)  
   Rails gem simple form for forms  
   ![Stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat-square)
 
