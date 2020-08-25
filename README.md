@@ -220,6 +220,7 @@
   Game engine 2d pra Flutter  
   ![Stars](https://img.shields.io/github/stars/flame-engine/flame.svg?style=flat-square)
 
+
 - **[Photo view](https://github.com/renancaraujo/photo_view)** by [renancaraujo](https://github.com/renancaraujo)  
   Widget pra galeria de imagens  
   ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square)
@@ -331,6 +332,10 @@
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** by [RocketChat](https://github.com/RocketChat)  
   The ultimate Free Open Source Solution for team communications  
   ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square)
+  
+ - **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
+  Create your own social share buttons with no extra dependencies   
+  ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square)
 
 - **[subtitle.js](https://github.com/gsantiago/subtitle.js)** by [gsantiago](https://github.com/gsantiago)  
   Parse and manipulate subtitles  
@@ -343,6 +348,7 @@
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
+  
 
 <a name="Lua"></a>
 
