@@ -112,6 +112,10 @@
   useful links for the development of programming and design projects  
   ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square)
 
+- **[magictools](https://github.com/ellisonleao/magictools)** by [ellisonleao](https://github.com/ellisonleao)  
+  A list of Game Development resources to make magic happen  
+  ![Stars](https://img.shields.io/github/stars/ellisonleao/magictools.svg?style=flat-square)
+
 - **[Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)** by [kelvins](https://github.com/kelvins)  
   List os brazilian cities  
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
