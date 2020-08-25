@@ -5,24 +5,28 @@
 [![license](https://img.shields.io/github/license/felipefialho/awesome-made-by-brazilians.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/awesome-made-by-brazilians.svg)](https://github.com/felipefialho/awesome-made-by-brazilians/graphs/contributors)
 
-- [Apps, Softwares & Tools](#apps)
-- [Awesomes & Lists](#awesomes)
-- [C](#c)
-- [C#](#csharp)
-- [C++](#cpp)
-- [CSS](#css)
-- [Dart](#dart)
-- [Delphi](#delphi)
-- [Elixir](#elixir)
-- [Go](#go)
-- [JavaScript](#js)
-- [Lua](#lua)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Shell](#shell)
-- [Typescript](#typescript)
-- [vim](#vim)
+- [:brazil: Awesome Made by Brazilians ![Awesome](https://awesome.re)](#brazil-awesome-made-by-brazilians-img-srchttpsawesomerebadgesvg-altawesome)
+    - [Apps, Softwares & Tools](#apps-softwares--tools)
+    - [Awesomes & Lists](#awesomes--lists)
+    - [C](#c)
+    - [C♯](#c-1)
+    - [C++](#c-2)
+    - [CSS](#css)
+    - [Delphi](#delphi)
+    - [Dart](#dart)
+    - [Elixir](#elixir)
+    - [Go](#go)
+    - [JavaScript](#javascript)
+    - [Lua](#lua)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Shell](#shell)
+    - [Typescript](#typescript)
+    - [vim](#vim)
+  - [Contributing](#contributing)
+  - [Thanks](#thanks)
+  - [License](#license)
 
 <a name="apps"></a>
 
@@ -360,6 +364,10 @@
 - **[Unform](https://github.com/Rocketseat/unform)** by [Rocketseat](https://github.com/Rocketseat)  
   Easy peasy highly scalable ReactJS & React Native forms!  
   ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square)
+
+- **[validations-br](https://github.com/reactivando/validations-br)** by [Reactivando](https://github.com/reactivando)  
+  Easy validations  
+  ![Stars](https://img.shields.io/github/stars/reactivando/validations-br?style=flat-square)
 
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
