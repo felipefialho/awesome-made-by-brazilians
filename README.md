@@ -348,7 +348,16 @@
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
+
+- **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** by [leonardomso](https://github.com/leonardomso)
+  33 concepts every JavaScript developer should know
+  ![Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=flat-square)
   
+- **[fast-memoize.js](https://github.com/caiogondim/fast-memoize.js)** by [caiogondim](https://github.com/caiogondim)
+  Fastest possible memoization library
+  ![Stars](https://img.shields.io/github/stars/caiogondim/fast-memoize.js?style=flat-square)
+
+
 
 <a name="Lua"></a>
 
