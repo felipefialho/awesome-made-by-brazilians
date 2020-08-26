@@ -343,6 +343,10 @@
   Modern copy to clipboard. No Flash. Just 3kb gzipped  
   ![Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=flat-square)
 
+- **[creditcard.js](https://github.com/ContaAzul/creditcard.js)** by [Conta Azul](https://github.com/ContaAzul)  
+  A simple credit cards validation library in JavaScript  
+  ![Stars](https://img.shields.io/github/stars/ContaAzul/creditcard.js.svg?style=flat-square)
+
 - **[Docz](https://github.com/doczjs/docz)** by [pedronauck](https://github.com/pedronauck)  
   Docz makes it easy to write and publish beautiful interactive documentation for your code  
   ![Stars](https://img.shields.io/github/stars/pedronauck/docz.svg?style=flat-square)
