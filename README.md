@@ -344,7 +344,7 @@
   ![Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=flat-square)
 
 - **[creditcard.js](https://github.com/ContaAzul/creditcard.js)** by [Conta Azul](https://github.com/ContaAzul)  
-  A simple credit cards validation library in JavaScript
+  A simple credit cards validation library in JavaScript  
   ![Stars](https://img.shields.io/github/stars/ContaAzul/creditcard.js.svg?style=flat-square)
 
 - **[Docz](https://github.com/doczjs/docz)** by [pedronauck](https://github.com/pedronauck)  
