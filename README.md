@@ -31,6 +31,10 @@
 - **[anonydog](https://github.com/anonydog/anonydog)** by [anonydog](https://github.com/anonydog)  
   A bot to anonymize contributors  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
+ 
+ - **[contrata-se-dev](https://contrata-se.dev/)** by [LarissaAbreu](https://github.com/LarissaAbreu)  
+  Job aggregator for developers  
+  ![Stars](https://img.shields.io/github/stars/LarissaAbreu/contrata-se-dev.svg?style=flat-square)
 
 - **[Egua](https://github.com/eguatech/egua)** by [eguatech](https://github.com/eguatech)  
   A programming language in portuguese to help beginners to start  
