@@ -128,7 +128,11 @@
 - **[magictools](https://github.com/ellisonleao/magictools)** by [ellisonleao](https://github.com/ellisonleao)  
   A list of Game Development resources to make magic happen  
   ![Stars](https://img.shields.io/github/stars/ellisonleao/magictools.svg?style=flat-square)
-
+  
+- **[modelo de contrato](https://github.com/apsantos-dev/modelo-de-contrato)** by [apsantos-dev](https://github.com/apsantos-dev)  
+  Assist in the creation of a document to formalize the provision of some type of service.  
+  ![Stars](https://img.shields.io/github/stars/apsantos-dev/modelo-de-contrato.svg?style=flat-square)
+  
 - **[Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)** by [kelvins](https://github.com/kelvins)  
   List os brazilian cities  
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
