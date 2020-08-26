@@ -104,6 +104,10 @@
   A curated list of Web Performance Optimization. Everyone can contribute here!  
   ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square)
 
+- **[backend-challenges](https://github.com/CollabCodeTech/backend-challenges)** by [joviane](https://github.com/joviane), [CollabCodeTech](https://github.com/CollabCodeTech) 
+  A public list of open-source challenges from jobs around the world 
+  ![Stars](https://img.shields.io/github/stars/CollabCodeTech/backend-challenges.svg?style=flat-square)
+
 - **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros)** by [guibranco](https://github.com/guibranco)  
   A curated list of brazilian banks  
   ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square)
@@ -113,7 +117,7 @@
   ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square)
 
 - **[frontend-challenges](https://github.com/felipefialho/frontend-challenges)** by [felipefialho](https://github.com/felipefialho)  
-  A lot of pen-source's challenges of jobs to test your knowledge  
+  A lot of open-source's challenges of jobs to test your knowledge  
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
 
 - **[Links-uteis](https://github.com/OfficialMarinho/Links-uteis)** by [OfficialMarinho](https://github.com/OfficialMarinho)  
