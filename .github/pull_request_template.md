@@ -11,5 +11,6 @@ If you want to add a project to this list, please make sure that:
 - [ ] The project has more than **100 stars** on Github
 - [ ] Place them in alphabetical order
 - [ ] One repository per PR/contribution - _avoid conflicts and simplify review_
+- [ ] Check if your suggestion follows our pattern (title, description, badge), you need to add double blank space after ending line of each line
 
 If they meet the requirements above, feel free to create a PR! 😁
