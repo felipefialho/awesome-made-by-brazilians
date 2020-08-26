@@ -452,7 +452,7 @@
   ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square)
 
 - **[fklearn](https://github.com/nubank/fklearn)** by [Nubank](https://github.com/nubank)  
-  fklearn: Functional Machine Learning
+  fklearn: Functional Machine Learning  
   ![Stars](https://img.shields.io/github/stars/nubank/fklearn?style=flat-square)
 
 - **[HTTPretty](https://github.com/gabrielfalcao/HTTPretty)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
