@@ -104,8 +104,8 @@
   A curated list of Web Performance Optimization. Everyone can contribute here!  
   ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square)
 
-- **[backend-challenges](https://github.com/CollabCodeTech/backend-challenges)** by [joviane](https://github.com/joviane), [CollabCodeTech](https://github.com/CollabCodeTech) 
-  A public list of open-source challenges from jobs around the world 
+- **[backend-challenges](https://github.com/CollabCodeTech/backend-challenges)** by [joviane](https://github.com/joviane), [CollabCodeTech](https://github.com/CollabCodeTech)  
+  A public list of open-source challenges from jobs around the world  
   ![Stars](https://img.shields.io/github/stars/CollabCodeTech/backend-challenges.svg?style=flat-square)
 
 - **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros)** by [guibranco](https://github.com/guibranco)  
