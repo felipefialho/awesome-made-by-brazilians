@@ -424,9 +424,13 @@
   Tenant support for Django using PostgreSQL schemas  
   ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
 
-- **[Dynaconf](https://github.com/rochacbruno/dynaconf)** by[rochacbruno](https://github.com/rochacbruno/)  
+- **[Dynaconf](https://github.com/rochacbruno/dynaconf)** by [rochacbruno](https://github.com/rochacbruno/)  
   Configuration Management for Python  
   ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square)
+
+- **[fklearn](https://github.com/nubank/fklearn)** by [Nubank](https://github.com/nubank)  
+  fklearn: Functional Machine Learning
+  ![Stars](https://img.shields.io/github/stars/nubank/fklearn?style=flat-square)
 
 - **[HTTPretty](https://github.com/gabrielfalcao/HTTPretty)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
   HTTP client mocking tool for Python - inspired by Fakeweb for Ruby  
