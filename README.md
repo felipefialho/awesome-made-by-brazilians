@@ -222,12 +222,12 @@
 
 ### Clojure
 
-- **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)
-  Integration testing framework using a state monad in the backend for building and composing flows
+- **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)  
+  Integration testing framework using a state monad in the backend for building and composing flows   
    ![Stars](https://img.shields.io/github/stars/nubank/state-flow.svg?style=flat-square)
 
-- **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)
-  Live development environment for Clojurescript
+- **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)  
+  Live development environment for Clojurescript  
    ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
 
 
@@ -307,8 +307,8 @@
   ShellHub enables teams to easily access any Linux device behind firewall and NAT  
   ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square)
 
-- **[Task](https://github.com/go-task/task)** by [andreynering](https://github.com/andreynering)
-  Task is a task runner / build tool, alternative to Make
+- **[Task](https://github.com/go-task/task)** by [andreynering](https://github.com/andreynering)  
+  Task is a task runner / build tool, alternative to Make  
   ![Stars](https://img.shields.io/github/stars/go-task/task.svg?style=flat-square)
 
 - **[tsuru](https://github.com/tsuru/tsuru)** by [tsuru](https://github.com/tsuru)  
@@ -384,7 +384,7 @@
   ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square)
 
 - **[React95](React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
-  A React components library with Win95 UI
+  A React components library with Win95 UI  
   ![Stars](https://img.shields.io/github/stars/React95/React95?style=flat-square)
 
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** by [RocketChat](https://github.com/RocketChat)  
