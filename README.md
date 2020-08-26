@@ -324,6 +324,10 @@
   The easiest way of creating animations to show your code in action  
   ![Stars](https://img.shields.io/github/stars/glorious-codes/glorious-demo?style=flat-square)
 
+- **[javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)** by [loiane](https://github.com/loiane)  
+  collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book  
+  ![Stars](https://img.shields.io/github/stars/loiane/javascript-datastructures-algorithms?style=flat-square)
+
 - **[JavaScript Docs](https://javascript-docs.netlify.app/)** by [brunormferreira](https://github.com/brunormferreira) and [leonardocesca](https://github.com/leonardocesca)  
   A JavaScript Documentation made in PT-BR.  
   ![Stars](https://img.shields.io/github/stars/leonardocesca/js-docs?style=flat-square)
