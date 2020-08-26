@@ -77,6 +77,10 @@
   The unofficial WWDC app for macOS  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
 
+- **[Dracula Theme](https://github.com/dracula/dracula-theme)** by [zenorocha](https://github.com/zenorocha)  
+  A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more.<br />
+  ![Stars](https://img.shields.io/github/stars/dracula/dracula-theme.svg?style=flat-square)
+
 <a name="awesomes"></a>
 
 ### Awesomes & Lists
