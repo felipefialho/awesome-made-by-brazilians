@@ -11,6 +11,7 @@
 - [C#](#csharp)
 - [C++](#cpp)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dart](#dart)
 - [Delphi](#delphi)
 - [Elixir](#elixir)
@@ -207,6 +208,20 @@
 - **[Milligram](https://github.com/milligram/milligram)** by [cjpatoilo](https://github.com/cjpatoilo)  
   A minimalist CSS framework  
   ![Stars](https://img.shields.io/github/stars/milligram/milligram.svg?style=flat-square)
+
+
+<a name="clojure"></a>
+
+### Clojure
+
+- **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)
+  Integration testing framework using a state monad in the backend for building and composing flows
+   ![Stars](https://img.shields.io/github/stars/nubank/state-flow.svg?style=flat-square)
+
+- **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)
+  Live development environment for Clojurescript
+   ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
+
 
 <a name="delphi"></a>
 
