@@ -37,6 +37,10 @@
   Job aggregator for developers  
   ![Stars](https://img.shields.io/github/stars/LarissaAbreu/contrata-se-dev.svg?style=flat-square)
 
+- **[Dracula Theme](https://github.com/dracula/dracula-theme)** by [zenorocha](https://github.com/zenorocha)  
+  A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more   
+  ![Stars](https://img.shields.io/github/stars/dracula/dracula-theme.svg?style=flat-square)
+
 - **[Egua](https://github.com/eguatech/egua)** by [eguatech](https://github.com/eguatech)  
   A programming language in portuguese to help beginners to start  
   ![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)
@@ -76,10 +80,6 @@
 - **[WWDC](https://github.com/insidegui/WWDC)** by [insidegui](https://github.com/insidegui)  
   The unofficial WWDC app for macOS  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
-
-- **[Dracula Theme](https://github.com/dracula/dracula-theme)** by [zenorocha](https://github.com/zenorocha)  
-  A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more.<br />
-  ![Stars](https://img.shields.io/github/stars/dracula/dracula-theme.svg?style=flat-square)
 
 <a name="awesomes"></a>
 
