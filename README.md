@@ -320,6 +320,10 @@
   Task is a task runner / build tool, alternative to Make  
   ![Stars](https://img.shields.io/github/stars/go-task/task.svg?style=flat-square)
 
+- **[teresa](https://github.com/luizalabs/teresa)** by [luizalabs](https://github.com/luizalabs)  
+  Open source tool to deploy apps to Kubernetes clusters  
+  ![Stars](https://img.shields.io/github/stars/luizalabs/teresa?style=flat-square)
+
 - **[tsuru](https://github.com/tsuru/tsuru)** by [tsuru](https://github.com/tsuru)  
   Open source, extensible and Docker-based Platform as a Service (PaaS)  
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
