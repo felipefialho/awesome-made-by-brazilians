@@ -436,7 +436,7 @@
   ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square)
 
 - **[Dephpugger](https://github.com/tacnoman/dephpugger)** by [tacnoman](https://github.com/tacnoman)  
-  Debug PHP applications in terminal 
+  Debug PHP applications in terminal  
   ![Stars](https://img.shields.io/github/stars/tacnoman/dephpugger?style=flat-square)
 
 - **[Siler](https://github.com/leocavalcante/siler)** by [leocavalcante](https://github.com/leocavalcante)  
