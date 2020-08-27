@@ -184,6 +184,10 @@
 - **[FluentValidator](https://github.com/andrebaltieri/FluentValidator)** by[andrebaltieri](https://github.com/andrebaltieri)  
   A fluent way to use Notification Pattern with your entities  
   ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square)
+  
+- **[NLua](https://github.com/nlua/nlua)** by [viniciusjarina](https://github.com/viniciusjarina)  
+  Bridge between Lua and the .NET.  
+  ![Stars](https://img.shields.io/github/stars/nlua/nlua.svg?style=flat-square)
 
 <a name="cpp"></a>
 
@@ -235,22 +239,6 @@
    ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
 
 
-<a name="delphi"></a>
-
-### Delphi
-
-- **[Boss](https://github.com/HashLoad/boss)** by [Hashload](https://github.com/HashLoad)  
-  Dependency Manager for Delphi  
-  ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square)
-
-- **[DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize)** by [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100)  
-  Set of features to make working with JSON and DataSet simple  
-  ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square)
-
-- **[Horse](https://github.com/HashLoad/horse)** by [Hashload](https://github.com/HashLoad)  
-  Horse is an Express inspired web framework for Delphi  
-  ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square)
-
 <a name="dart"></a>
 
 ### Dart
@@ -266,6 +254,23 @@
 - **[Photo view](https://github.com/renancaraujo/photo_view)** by [renancaraujo](https://github.com/renancaraujo)  
   Widget pra galeria de imagens  
   ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square)
+
+
+<a name="delphi"></a>
+
+### Delphi
+
+- **[Boss](https://github.com/HashLoad/boss)** by [Hashload](https://github.com/HashLoad)  
+  Dependency Manager for Delphi  
+  ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square)
+
+- **[DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize)** by [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100)  
+  Set of features to make working with JSON and DataSet simple  
+  ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square)
+
+- **[Horse](https://github.com/HashLoad/horse)** by [Hashload](https://github.com/HashLoad)  
+  Horse is an Express inspired web framework for Delphi  
+  ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square)
 
 <a name="Elixir"></a>
 
@@ -431,6 +436,10 @@
   WordPress backend with Laravel or any PHP application  
   ![Stars](https://img.shields.io/github/stars/corcel/corcel?style=flat-square)
 
+- **[Dephpugger](https://github.com/tacnoman/dephpugger)** by [tacnoman](https://github.com/tacnoman)  
+  Debug PHP applications in terminal  
+  ![Stars](https://img.shields.io/github/stars/tacnoman/dephpugger?style=flat-square)
+
 - **[Siler](https://github.com/leocavalcante/siler)** by [leocavalcante](https://github.com/leocavalcante)  
   Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions  
   ![Stars](https://img.shields.io/github/stars/leocavalcante/siler?style=flat-square)
@@ -470,6 +479,10 @@
 - **[isk-daemon](https://github.com/ricardocabral/iskdaemon)** by [ricardocabral](https://github.com/ricardocabral/)  
   Open source database for content-based (visual) image search  
   ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square)
+
+- **[keyboard](https://github.com/boppreh/keyboard)** by [BoppreH](https://github.com/boppreh)  
+  Hook and simulate global keyboard events on Windows and Linux.  
+  ![Stars](https://img.shields.io/github/stars/boppreh/keyboard?style=flat-square)
 
 - **[lettuce](https://github.com/gabrielfalcao/lettuce)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
   Behavior-driven-development tool for python, inspired by Cucumber for Ruby  
