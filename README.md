@@ -472,7 +472,7 @@
   ![Stars](https://img.shields.io/github/stars/ricardocabral/iskdaemon?style=flat-square)
 
 - **[keyboard](https://github.com/boppreh/keyboard)** by [BoppreH](https://github.com/boppreh)  
-  Hook and simulate global keyboard events on Windows and Linux. 
+  Hook and simulate global keyboard events on Windows and Linux.  
   ![Stars](https://img.shields.io/github/stars/boppreh/keyboard?style=flat-square)
 
 - **[lettuce](https://github.com/gabrielfalcao/lettuce)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
