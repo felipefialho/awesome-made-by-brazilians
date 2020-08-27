@@ -496,6 +496,10 @@
   A extensible library for Settings/Code separation  
   ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square)
 
+- **[rows](https://github.com/turicas/rows)** by [turicas](https://github.com/turicas)  
+  A common, beautiful interface to tabular data, no matter the format  
+  ![Stars](https://img.shields.io/github/stars/turicas/rows?style=flat-square)
+
 - **[splinter](https://github.com/cobrateam/splinter)** by [cobrateam](https://github.com/cobrateam)  
   Python test framework for web applications  
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
