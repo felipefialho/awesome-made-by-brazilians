@@ -150,7 +150,7 @@
 ### C
 
 - **[Balde](https://github.com/balde/balde)** by [rafaelmartins](https://github.com/rafaelmartins)  
-  A fast, simple, and memory efficient microframework written in C. It can run on any web server that supports CGI and/or FastCGI.
+  A fast, simple, and memory efficient microframework written in C. It can run on any web server that supports CGI and/or FastCGI.  
   ![Stars](https://img.shields.io/github/stars/balde/balde.svg?style=flat-square)
 
 - **[Binn](https://github.com/liteserver/binn)** by [kroggen](https://github.com/kroggen)  
