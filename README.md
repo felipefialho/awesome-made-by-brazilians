@@ -239,22 +239,6 @@
    ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
 
 
-<a name="delphi"></a>
-
-### Delphi
-
-- **[Boss](https://github.com/HashLoad/boss)** by [Hashload](https://github.com/HashLoad)  
-  Dependency Manager for Delphi  
-  ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square)
-
-- **[DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize)** by [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100)  
-  Set of features to make working with JSON and DataSet simple  
-  ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square)
-
-- **[Horse](https://github.com/HashLoad/horse)** by [Hashload](https://github.com/HashLoad)  
-  Horse is an Express inspired web framework for Delphi  
-  ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square)
-
 <a name="dart"></a>
 
 ### Dart
@@ -270,6 +254,23 @@
 - **[Photo view](https://github.com/renancaraujo/photo_view)** by [renancaraujo](https://github.com/renancaraujo)  
   Widget pra galeria de imagens  
   ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square)
+
+
+<a name="delphi"></a>
+
+### Delphi
+
+- **[Boss](https://github.com/HashLoad/boss)** by [Hashload](https://github.com/HashLoad)  
+  Dependency Manager for Delphi  
+  ![Stars](https://img.shields.io/github/stars/hashload/boss.svg?style=flat-square)
+
+- **[DataSet-Serialize](https://github.com/viniciussanchez/dataset-serialize)** by [Vinicius Sanchez](https://github.com/viniciussanchez), [Mateus Vicente](https://github.com/mateusvicente100)  
+  Set of features to make working with JSON and DataSet simple  
+  ![Stars](https://img.shields.io/github/stars/viniciussanchez/dataset-serialize.svg?style=flat-square)
+
+- **[Horse](https://github.com/HashLoad/horse)** by [Hashload](https://github.com/HashLoad)  
+  Horse is an Express inspired web framework for Delphi  
+  ![Stars](https://img.shields.io/github/stars/hashload/horse.svg?style=flat-square)
 
 <a name="Elixir"></a>
 
