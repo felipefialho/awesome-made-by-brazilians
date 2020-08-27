@@ -388,6 +388,10 @@
   Tiny task scheduler in pure JavaScript for node.js based on GNU crontab.  
   ![Stars](https://img.shields.io/github/stars/node-cron/node-cron?style=flat-square)
 
+- **[node4noobs](https://github.com/anabastos/node4noobs)** by [anabastos](https://github.com/anabastos)  
+  A repository for learning Node working on a project from scratch. Helps people with little programming experience.  
+  ![Stars](https://img.shields.io/github/stars/anabastos/node4noobs?style=flat-square)
+
 - **[qualy-presenter](https://github.com/Qualy-org/qualy-presenter)** by [willianjusten](https://github.com/willianjusten)  
   A boilerplate to create presentations  
   ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square)
