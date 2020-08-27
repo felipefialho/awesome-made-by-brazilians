@@ -184,6 +184,10 @@
 - **[FluentValidator](https://github.com/andrebaltieri/FluentValidator)** by[andrebaltieri](https://github.com/andrebaltieri)  
   A fluent way to use Notification Pattern with your entities  
   ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square)
+  
+- **[NLua](https://github.com/nlua/nlua)** by [viniciusjarina](https://github.com/viniciusjarina)  
+  Bridge between Lua and the .NET.  
+  ![Stars](https://img.shields.io/github/stars/nlua/nlua.svg?style=flat-square)
 
 <a name="cpp"></a>
 
