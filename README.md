@@ -145,6 +145,10 @@
   Companies with remote job on Brazil  
   ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square)
 
+- **[women-teaching-tech](https://github.com/compiladoras/women-teaching-tech)** by [compiladoras](https://github.com/compiladoras)  
+  List of channels and courses on technology made by women  
+  ![Stars](https://img.shields.io/github/stars/compiladoras/women-teaching-tech?style=flat-square)
+
 <a name="c"></a>
 
 ### C
