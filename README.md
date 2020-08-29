@@ -421,6 +421,10 @@
   Internationalization for Svelte.  
   ![Stars](https://img.shields.io/github/stars/kaisermann/svelte-i18n?style=flat-square)
 
+- **[svelte-loadable](https://github.com/kaisermann/svelte-loadable)** by [kaisermann](https://github.com/kaisermann)  
+  Internationalization for Svelte.  
+  ![Stars](https://img.shields.io/github/stars/kaisermann/svelte-loadable?style=flat-square)
+
 - **[svelte-preprocess](https://github.com/sveltejs/svelte-preprocess)** by [kaisermann](https://github.com/kaisermann)  
   A Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.  
   ![Stars](https://img.shields.io/github/stars/sveltejs/svelte-preprocess?style=flat-square)
