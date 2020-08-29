@@ -32,8 +32,8 @@
 - **[anonydog](https://github.com/anonydog/anonydog)** by [anonydog](https://github.com/anonydog)  
   A bot to anonymize contributors  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
- 
- - **[contrata-se-dev](https://contrata-se.dev/)** by [LarissaAbreu](https://github.com/LarissaAbreu)  
+
+- **[contrata-se-dev](https://contrata-se.dev/)** by [LarissaAbreu](https://github.com/LarissaAbreu)  
   Job aggregator for developers  
   ![Stars](https://img.shields.io/github/stars/LarissaAbreu/contrata-se-dev.svg?style=flat-square)
 
@@ -42,7 +42,7 @@
   ![Stars](https://img.shields.io/github/stars/devhubapp/devhub?style=flat-square)
 
 - **[Dracula Theme](https://github.com/dracula/dracula-theme)** by [zenorocha](https://github.com/zenorocha)  
-  A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more   
+  A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more  
   ![Stars](https://img.shields.io/github/stars/dracula/dracula-theme.svg?style=flat-square)
 
 - **[Egua](https://github.com/eguatech/egua)** by [eguatech](https://github.com/eguatech)  
@@ -132,11 +132,11 @@
 - **[magictools](https://github.com/ellisonleao/magictools)** by [ellisonleao](https://github.com/ellisonleao)  
   A list of Game Development resources to make magic happen  
   ![Stars](https://img.shields.io/github/stars/ellisonleao/magictools.svg?style=flat-square)
-  
+
 - **[modelo de contrato](https://github.com/apsantos-dev/modelo-de-contrato)** by [apsantos-dev](https://github.com/apsantos-dev)  
   Assist in the creation of a document to formalize the provision of some type of service.  
   ![Stars](https://img.shields.io/github/stars/apsantos-dev/modelo-de-contrato.svg?style=flat-square)
-  
+
 - **[Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)** by [kelvins](https://github.com/kelvins)  
   List os brazilian cities  
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
@@ -184,7 +184,7 @@
 - **[FluentValidator](https://github.com/andrebaltieri/FluentValidator)** by[andrebaltieri](https://github.com/andrebaltieri)  
   A fluent way to use Notification Pattern with your entities  
   ![Stars](https://img.shields.io/github/stars/andrebaltieri/FluentValidator.svg?style=flat-square)
-  
+
 - **[NLua](https://github.com/nlua/nlua)** by [viniciusjarina](https://github.com/viniciusjarina)  
   Bridge between Lua and the .NET.  
   ![Stars](https://img.shields.io/github/stars/nlua/nlua.svg?style=flat-square)
@@ -225,19 +225,17 @@
   A minimalist CSS framework  
   ![Stars](https://img.shields.io/github/stars/milligram/milligram.svg?style=flat-square)
 
-
 <a name="clojure"></a>
 
 ### Clojure
 
 - **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)  
-  Integration testing framework using a state monad in the backend for building and composing flows   
+  Integration testing framework using a state monad in the backend for building and composing flows  
    ![Stars](https://img.shields.io/github/stars/nubank/state-flow.svg?style=flat-square)
 
 - **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)  
   Live development environment for Clojurescript  
    ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
-
 
 <a name="dart"></a>
 
@@ -254,7 +252,6 @@
 - **[Photo view](https://github.com/renancaraujo/photo_view)** by [renancaraujo](https://github.com/renancaraujo)  
   Widget pra galeria de imagens  
   ![Stars](https://img.shields.io/github/stars/renancaraujo/photo_view.svg?style=flat-square)
-
 
 <a name="delphi"></a>
 
@@ -420,6 +417,10 @@
   Parse and manipulate subtitles  
   ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square)
 
+- **[svelte-preprocess](https://github.com/sveltejs/svelte-preprocess)** by [kaisermann](https://github.com/kaisermann)  
+  A Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.  
+  ![Stars](https://img.shields.io/github/stars/sveltejs/svelte-preprocess?style=flat-square)
+
 - **[Unform](https://github.com/Rocketseat/unform)** by [Rocketseat](https://github.com/Rocketseat)  
   Easy peasy highly scalable ReactJS & React Native forms!  
   ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square)
@@ -516,7 +517,7 @@
   Do some browser detection with Ruby. Includes ActionController integration  
   ![Stars](https://img.shields.io/github/stars/fnando/browser?style=flat-square)
 
-- **[Rails gem devise](https://github.com/heartcombo/devise)** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva). 
+- **[Rails gem devise](https://github.com/heartcombo/devise)** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva).  
   Rails gem devise for user authentication  
   ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square)
 
