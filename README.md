@@ -417,9 +417,9 @@
   Parse and manipulate subtitles  
   ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square)
 
-- **[svelte-i18n](https://github.com/sveltejs/svelte-i18n)** by [kaisermann](https://github.com/kaisermann)  
+- **[svelte-i18n](https://github.com/kaisermann/svelte-i18n)** by [kaisermann](https://github.com/kaisermann)  
   Internationalization for Svelte.  
-  ![Stars](https://img.shields.io/github/stars/sveltejs/svelte-i18n?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/kaisermann/svelte-i18n?style=flat-square)
 
 - **[svelte-preprocess](https://github.com/sveltejs/svelte-preprocess)** by [kaisermann](https://github.com/kaisermann)  
   A Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.  
