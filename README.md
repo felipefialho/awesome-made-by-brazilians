@@ -426,7 +426,7 @@
   ![Stars](https://img.shields.io/github/stars/kaisermann/svelte-i18n?style=flat-square)
 
 - **[svelte-loadable](https://github.com/kaisermann/svelte-loadable)** by [kaisermann](https://github.com/kaisermann)  
-  Dynamically load a svelte component.
+  Dynamically load a svelte component.  
   ![Stars](https://img.shields.io/github/stars/kaisermann/svelte-loadable?style=flat-square)
 
 - **[svelte-preprocess](https://github.com/sveltejs/svelte-preprocess)** by [kaisermann](https://github.com/kaisermann)  
