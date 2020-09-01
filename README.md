@@ -200,11 +200,16 @@
 - **[Brasilino](https://github.com/OtacilioN/Brasilino)** by [Otacilio Maia](https://github.com/OtacilioN), [Thiago Augusto](https://github.com/ThiagoAugustoSM), [Erick Simões](https://github.com/ErickSimoes)  
   A library that allows programming in Arduino using commands in PT-BR  
   ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square)
+  
+- **[matplotplusplus](https://github.com/alandefreitas/matplotplusplus)** by [ Avatar
+Alan de Freitas](https://github.com/alandefreitas)  
+  Matplot++: A C++ Graphics Library for Data Visualization  
+  ![Stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus.svg?style=flat-square)
 
 - **[pgModeler](https://github.com/pgmodeler/pgmodeler)** by [Raphael Araújo e Silva](https://github.com/rkhaotix)  
   PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL  
   ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square)
-
+  
 <a name="css"></a>
 
 ### CSS
