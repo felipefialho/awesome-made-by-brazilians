@@ -309,6 +309,10 @@
   Deliver Go binaries as fast and easily as possible  
   ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square)
 
+- **[Learn Go with tests](https://github.com/larien/learn-go-with-tests)** by [Lauren Ferreira](https://github.com/larien)  
+  Learn Go with test-driven development  
+  ![Stars](https://img.shields.io/github/stars/larien/learn-go-with-tests.svg?style=flat-square)
+
 - **[pREST](https://github.com/prest/prest)** by [Avelino](https://github.com/avelino)  
   (PostgreSQL REST), simplify and accelerate development, instant, realtime high-performance on any Postgres application, existing or new  
   ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square)
