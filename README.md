@@ -522,6 +522,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   A extensible library for Settings/Code separation  
   ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square)
 
+- **[python-decouple](https://github.com/henriquebastos/python-decouple)** by [henriquebastos](https://github.com/henriquebastos)  
+  Strict separation of config from code  
+  ![Stars](https://img.shields.io/github/stars/henriquebastos/python-decouple?style=flat-square)
+
 - **[rows](https://github.com/turicas/rows)** by [turicas](https://github.com/turicas)  
   A common, beautiful interface to tabular data, no matter the format  
   ![Stars](https://img.shields.io/github/stars/turicas/rows?style=flat-square)
