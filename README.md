@@ -530,6 +530,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   A common, beautiful interface to tabular data, no matter the format  
   ![Stars](https://img.shields.io/github/stars/turicas/rows?style=flat-square)
 
+- **[serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
+  Serenata de Amor is an open project using artificial intelligence for social control of public administration  
+  ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square)
+
 - **[splinter](https://github.com/cobrateam/splinter)** by [cobrateam](https://github.com/cobrateam)  
   Python test framework for web applications  
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
