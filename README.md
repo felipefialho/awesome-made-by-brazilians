@@ -534,6 +534,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Python test framework for web applications  
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
 
+- **[querido-diario](https://github.com/okfn-brasil/querido-diario)** by [okfn-brasil](https://github.com/okfn-brasil)  
+  Brazilian government gazettes, accessible to everyone.  
+  ![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square)
+
 <a name="Ruby"></a>
 
 ### Ruby
