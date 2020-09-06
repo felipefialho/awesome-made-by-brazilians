@@ -526,6 +526,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Strict separation of config from code  
   ![Stars](https://img.shields.io/github/stars/henriquebastos/python-decouple?style=flat-square)
 
+- **[RastreioBot](https://github.com/GabrielRF/RastreioBot)** by [GabrielRF](https://github.com/GabrielRF)  
+  This is a Telegram Bot that tracks packages from the Brazilian Mail Service. It runs on Python 3 and uses MongoDB.  
+  ![Stars](https://img.shields.io/github/stars/GabrielRF/RastreioBot?style=flat-square)
+
 - **[rows](https://github.com/turicas/rows)** by [turicas](https://github.com/turicas)  
   A common, beautiful interface to tabular data, no matter the format  
   ![Stars](https://img.shields.io/github/stars/turicas/rows?style=flat-square)
