@@ -73,6 +73,10 @@
   Chrome and Firefox extension that improves Bitbucket's user experience  
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
 
+- **[SpeakerFight](https://github.com/luanfonceca/speakerfight)** by [luanfonceca](https://github.com/luanfonceca)  
+  The Easier way to choose the best talks  
+  ![Stars](https://img.shields.io/github/stars/luanfonceca/speakerfight.svg?style=flat-square)
+
 - **[webBudget](https://github.com/arthurgregorio/web-budget)** by [arthurgregorio](https://github.com/arthurgregorio)  
   A free and open-source software to control your personal finances or of your small company  
   ![Stars](https://img.shields.io/github/stars/arthurgregorio/web-budget?style=flat-square)
