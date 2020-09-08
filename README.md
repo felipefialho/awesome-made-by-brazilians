@@ -73,6 +73,10 @@
   Chrome and Firefox extension that improves Bitbucket's user experience  
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
 
+- **[SpeakerFight](https://github.com/luanfonceca/speakerfight)** by [luanfonceca](https://github.com/luanfonceca)  
+  The Easier way to choose the best talks  
+  ![Stars](https://img.shields.io/github/stars/luanfonceca/speakerfight.svg?style=flat-square)
+
 - **[webBudget](https://github.com/arthurgregorio/web-budget)** by [arthurgregorio](https://github.com/arthurgregorio)  
   A free and open-source software to control your personal finances or of your small company  
   ![Stars](https://img.shields.io/github/stars/arthurgregorio/web-budget?style=flat-square)
@@ -414,7 +418,7 @@ Alan de Freitas](https://github.com/alandefreitas)
   Cube transition for React Native  
   ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square)
 
-- **[React95](React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
+- **[React95](https://github.com/React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
   A React components library with Win95 UI  
   ![Stars](https://img.shields.io/github/stars/React95/React95?style=flat-square)
 
@@ -486,6 +490,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
 
+- **[django-htmlmin](https://github.com/cobrateam/django-htmlmin)** by [cobrateam](https://github.com/cobrateam)  
+  HTML minifier for Python frameworks  
+  ![Stars](https://img.shields.io/github/stars/cobrateam/django-htmlmin?style=flat-square)
+
 - **[django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate)** by [Vinta Software](https://github.com/vintasoftware)  
   Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate  
   ![Stars](https://img.shields.io/github/stars/vintasoftware/django-react-boilerplate?style=flat-square)
@@ -537,6 +545,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[querido-diario](https://github.com/okfn-brasil/querido-diario)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Brazilian government gazettes, accessible to everyone.  
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square)
+
+- **[sure](https://github.com/gabrielfalcao/sure)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
+  Idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js  
+  ![Stars](https://img.shields.io/github/stars/gabrielfalcao/sure?style=flat-square)
 
 <a name="Ruby"></a>
 
