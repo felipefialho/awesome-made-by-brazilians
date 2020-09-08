@@ -490,6 +490,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
 
+- **[django-htmlmin](https://github.com/cobrateam/django-htmlmin)** by [cobrateam](https://github.com/cobrateam)  
+  HTML minifier for Python frameworks  
+  ![Stars](https://img.shields.io/github/stars/cobrateam/django-htmlmin?style=flat-square)
+
 - **[django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate)** by [Vinta Software](https://github.com/vintasoftware)  
   Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate  
   ![Stars](https://img.shields.io/github/stars/vintasoftware/django-react-boilerplate?style=flat-square)
