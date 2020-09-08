@@ -542,6 +542,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Python test framework for web applications  
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
 
+- **[querido-diario](https://github.com/okfn-brasil/querido-diario)** by [okfn-brasil](https://github.com/okfn-brasil)  
+  Brazilian government gazettes, accessible to everyone.  
+  ![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square)
+
 - **[sure](https://github.com/gabrielfalcao/sure)** by [gabrielfalcao](https://github.com/gabrielfalcao)  
   Idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js  
   ![Stars](https://img.shields.io/github/stars/gabrielfalcao/sure?style=flat-square)
