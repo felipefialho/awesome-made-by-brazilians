@@ -418,7 +418,7 @@ Alan de Freitas](https://github.com/alandefreitas)
   Cube transition for React Native  
   ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square)
 
-- **[React95](React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
+- **[React95](https://github.com/React95/React95)** by [ggdaltoso](https://github.com/ggdaltoso)  
   A React components library with Win95 UI  
   ![Stars](https://img.shields.io/github/stars/React95/React95?style=flat-square)
 
