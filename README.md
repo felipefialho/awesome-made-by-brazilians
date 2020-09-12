@@ -534,6 +534,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   A common, beautiful interface to tabular data, no matter the format  
   ![Stars](https://img.shields.io/github/stars/turicas/rows?style=flat-square)
 
+- **[scanapi](https://github.com/scanapi/scanapi)** by [ScanAPI](https://github.com/scanapi)  
+  Automated Integration Testing and Live Documentation for your API  
+  ![Stars](https://img.shields.io/github/stars/scanapi/scanapi?style=flat-square)
+
 - **[splinter](https://github.com/cobrateam/splinter)** by [cobrateam](https://github.com/cobrateam)  
   Python test framework for web applications  
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
