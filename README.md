@@ -152,6 +152,10 @@
 - **[women-teaching-tech](https://github.com/compiladoras/women-teaching-tech)** by [compiladoras](https://github.com/compiladoras)  
   List of channels and courses on technology made by women  
   ![Stars](https://img.shields.io/github/stars/compiladoras/women-teaching-tech?style=flat-square)
+  
+- **[Awesome hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest-2020)** by [Otacilio Maia](https://github.com/OtacilioN)  
+  A curated list of awesome Hacktoberfest repositories  
+  ![Stars](https://img.shields.io/github/stars/OtacilioN/awesome-hacktoberfest-2020.svg?style=flat-square)
 
 <a name="c"></a>
 
