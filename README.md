@@ -105,6 +105,10 @@
   A curated list of awesome Go frameworks, libraries and software  
   ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square)
 
+- **[Awesome hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest-2020)** by [Otacilio Maia](https://github.com/OtacilioN)  
+  A curated list of awesome Hacktoberfest repositories  
+  ![Stars](https://img.shields.io/github/stars/OtacilioN/awesome-hacktoberfest-2020.svg?style=flat-square)
+
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
