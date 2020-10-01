@@ -598,13 +598,13 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### vim
 
-- **[vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)** by [avelino](https://github.com/avelino)  
-  Generator provides a simple method of generating a .vimrc configuration for vim  
-  ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square)
-
 - **[Neovim](https://github.com/neovim/neovim)** by [tarruda](https://github.com/tarruda)  
   Neovim is the most popular vim fork and refactor that simplifies maintenance, enable advanced UIs and maximize extensibility  
   ![Stars](https://img.shields.io/github/stars/neovim/neovim.svg?style=flat-square)  
+
+- **[vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)** by [avelino](https://github.com/avelino)  
+  Generator provides a simple method of generating a .vimrc configuration for vim  
+  ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square)
 
 ## Contributing
 
