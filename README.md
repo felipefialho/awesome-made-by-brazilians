@@ -602,6 +602,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Generator provides a simple method of generating a .vimrc configuration for vim  
   ![Stars](https://img.shields.io/github/stars/editor-bootstrap/vim-bootstrap.svg?style=flat-square)
 
+- **[Neovim](https://github.com/neovim/neovim)** by [tarruda](https://github.com/tarruda)  
+  Neovim is the most popular vim fork and refactor that simplifies maintenance, enable advanced UIs and maximize extensibility  
+  ![Stars](https://img.shields.io/github/stars/neovim/neovim.svg?style=flat-square)  
+
 ## Contributing
 
 (the same measurement rule as [awesome-made-by-russians ](https://github.com/gaearon/awesome-made-by-russians))
