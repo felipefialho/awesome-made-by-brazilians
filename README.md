@@ -462,9 +462,9 @@ Alan de Freitas](https://github.com/alandefreitas)
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
   
-  - **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
-  An API that gives access to resources available on Brazil  
-  ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)
+- **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
+An API that gives access to resources available on Brazil  
+![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)
 
 <a name="Lua"></a>
 
