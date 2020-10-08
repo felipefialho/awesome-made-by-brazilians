@@ -365,6 +365,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[brazilian-utils](https://github.com/brazilian-utils/brazilian-utils)** by [hyanmandian](https://github.com/hyanmandian)  
   Utils library for Brazilian-specific businesses  
   ![Stars](https://img.shields.io/github/stars/brazilian-utils/brazilian-utils?style=flat-square)
+  
+- **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
+  An API that gives access to resources available on Brazil  
+ ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)  
 
 - **[cep-promise](https://github.com/filipedeschamps/cep-promise)** by [filipedeschamps](https://github.com/filipedeschamps)  
   Search for CEP using Correios, ViaCEP e etc  
@@ -461,10 +465,6 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
-  
-- **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
-An API that gives access to resources available on Brazil  
-![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)
 
 <a name="Lua"></a>
 
