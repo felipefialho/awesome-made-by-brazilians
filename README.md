@@ -361,6 +361,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[ajax](https://github.com/fdaciuk/ajax)** by [fdaciuk](https://github.com/fdaciuk)  
   Ajax module in Vanilla JS  
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
+  
+- **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
+  An API that gives access to resources available on Brazil  
+ ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)  
 
 - **[brazilian-utils](https://github.com/brazilian-utils/brazilian-utils)** by [hyanmandian](https://github.com/hyanmandian)  
   Utils library for Brazilian-specific businesses  
