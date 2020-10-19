@@ -298,6 +298,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Elixir language, created by a Brazilian, José Valim  
   ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square)
 
+- **[Floki](https://github.com/philss/floki)** by [philss](https://github.com/philss)  
+  Floki is a simple HTML parser that enables search for nodes using CSS selectors  
+  ![Stars](https://img.shields.io/github/stars/philss/floki?style=flat-square)
+
 <a name="go"></a>
 
 ### Go
