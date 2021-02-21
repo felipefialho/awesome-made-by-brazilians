@@ -445,6 +445,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** by [RocketChat](https://github.com/RocketChat)  
   The ultimate Free Open Source Solution for team communications  
   ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square)
+  
+- **[Vue Page Title](https://github.com/vinicius73/vue-page-title)** by [vinicius73](https://github.com/vinicius73)  
+  Vue.js html/page title manager 
+  ![Stars](https://img.shields.io/github/stars/vinicius73/vue-page-title?style=flat-square)
 
 - **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
   Create your own social share buttons with no extra dependencies  
