@@ -113,6 +113,10 @@
   A curated list of awesome Hacktoberfest repositories  
   ![Stars](https://img.shields.io/github/stars/OtacilioN/awesome-hacktoberfest-2020.svg?style=flat-square)
 
+- **[awesome-mlops](https://github.com/kelvins/awesome-mlops)** by [kelvins](https://github.com/kelvins)  
+  A curated list of awesome MLOps tools  
+  ![Stars](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=flat-square)
+
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
