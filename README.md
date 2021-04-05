@@ -120,6 +120,10 @@
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
+  
+- **[awesome-techleads](https://github.com/gabiduarte/awesome-techleads)** by [gabiduarte](https://github.com/gabiduarte)  
+  A curated list about Tech Lead contents in pt-br  
+  ![Stars](https://img.shields.io/github/stars/gabiduarte/awesome-techleads.svg?style=flat-square)
 
 - **[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)** by [davidsonfellipe](https://github.com/davidsonfellipe)  
   A curated list of Web Performance Optimization. Everyone can contribute here!  
