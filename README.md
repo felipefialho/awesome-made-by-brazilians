@@ -102,7 +102,7 @@
   ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square)
 
 - **[awesome-csirt](https://github.com/Spacial/csirt)** by [Spacial](https://github.com/Spacial/)
-  Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities. 
+  Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities  
   ![Stars](https://img.shields.io/github/stars/spacial/csirt.svg?style=flat-square)
 
 - **[awesome-go](https://github.com/avelino/awesome-go)** by [Avelino](https://github.com/avelino)  
