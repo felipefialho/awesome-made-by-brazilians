@@ -225,6 +225,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[pgModeler](https://github.com/pgmodeler/pgmodeler)** by [Raphael Araújo e Silva](https://github.com/rkhaotix)  
   PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL  
   ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square)
+
+- **[bgslibrary](https://github.com/andrewssobral/bgslibrary)** by [Andrews Cordolino Sobral](https://github.com/andrewssobral)  
+  A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT 
+  ![Stars](https://img.shields.io/github/stars/andrewssobral/bgslibrary.svg?style=flat-square)
   
 <a name="css"></a>
 
