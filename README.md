@@ -217,6 +217,10 @@
 
 ### C++
 
+- **[bgslibrary](https://github.com/andrewssobral/bgslibrary)** by [Andrews Cordolino Sobral](https://github.com/andrewssobral)  
+  A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT  
+  ![Stars](https://img.shields.io/github/stars/andrewssobral/bgslibrary.svg?style=flat-square)
+
 - **[Brasilino](https://github.com/OtacilioN/Brasilino)** by [Otacilio Maia](https://github.com/OtacilioN), [Thiago Augusto](https://github.com/ThiagoAugustoSM), [Erick Simões](https://github.com/ErickSimoes)  
   A library that allows programming in Arduino using commands in PT-BR  
   ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square)
