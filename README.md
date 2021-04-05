@@ -229,6 +229,10 @@
   A library that allows programming in Arduino using commands in PT-BR  
   ![Stars](https://img.shields.io/github/stars/OtacilioN/Brasilino.svg?style=flat-square)
   
+- **[cvui](https://github.com/Dovyski/cvui)** by [Fernando Bevilacqua](https://github.com/Dovyski)  
+  A (very) simple UI lib built on top of OpenCV drawing primitives  
+  ![Stars](https://img.shields.io/github/stars/Dovyski/cvui.svg?style=flat-square)
+  
 - **[matplotplusplus](https://github.com/alandefreitas/matplotplusplus)** by [ Avatar
 Alan de Freitas](https://github.com/alandefreitas)  
   Matplot++: A C++ Graphics Library for Data Visualization  
