@@ -512,6 +512,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   LuaRocks is the package manager for the Lua programming language  
   ![Stars](https://img.shields.io/github/stars/luarocks/luarocks?style=flat-square)  
 
+- **[tl](https://github.com/teal-language/tl)** by [hishamhm](https://github.com/hishamhm)    
+  The compiler for Teal, a typed dialect of Lua  
+  ![Stars](https://img.shields.io/github/stars/teal-language/tl?style=flat-square)
+
 <a name="php"></a>
 
 ### PHP
