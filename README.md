@@ -270,20 +270,20 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Clojure
 - **[Chlorine](https://github.com/mauricioszabo/atom-chlorine)** by [Maurício Szabo](https://github.com/mauricioszabo)
-  Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results
-![Stars](https://img.shields.io/github/stars/mauricioszabo/atom-chlorine.svg?style=flat-square)
+  Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results  
+  ![Stars](https://img.shields.io/github/stars/mauricioszabo/atom-chlorine.svg?style=flat-square)
 
 - **[Pathom](https://github.com/wilkerlucio/pathom)** by [Wilker Lúcio](https://github.com/wilkerlucio)
-  A Clojure library designed to help you write Clojure(script) graph query processing parsers for the query notation used by EQL.
+  A Clojure library designed to help you write Clojure(script) graph query processing parsers for the query notation used by EQL  
   ![Stars](https://img.shields.io/github/stars/wilkerlucio/pathom.svg?style=flat-square)
 
 - **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)  
   Integration testing framework using a state monad in the backend for building and composing flows  
-   ![Stars](https://img.shields.io/github/stars/nubank/state-flow.svg?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/nubank/state-flow.svg?style=flat-square)
 
 - **[workspaces](https://github.com/nubank/workspaces)** by [Nubank](https://github.com/nubank)  
   Live development environment for Clojurescript  
-   ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/nubank/workspaces.svg?style=flat-square)
 
 <a name="dart"></a>
 
