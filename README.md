@@ -269,6 +269,8 @@ Alan de Freitas](https://github.com/alandefreitas)
 <a name="clojure"></a>
 
 ### Clojure
+- **[Chlorine](https://github.com/mauricioszabo/atom-chlorine)** by [Maurício Szabo](https://github.com/mauricioszabo)
+  Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results
 
 - **[state-flow](https://github.com/nubank/state-flow)** by [Nubank](https://github.com/nubank)  
   Integration testing framework using a state monad in the backend for building and composing flows  
