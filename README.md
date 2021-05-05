@@ -505,7 +505,7 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Lua
 
-- **[Lua Programming language](https://github.com/lua/lua)** by [roberto-ieru](https://github.com/roberto-ieru)
+- **[Lua Programming language](https://github.com/lua/lua)** by [roberto-ieru](https://github.com/roberto-ieru)    
   Lua language, created by a Brazilian, Roberto Ierusalimschy  
   ![Stars](https://img.shields.io/github/stars/lua/lua?style=flat-square)
   
