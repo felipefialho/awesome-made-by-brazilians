@@ -136,6 +136,10 @@
 - **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros)** by [guibranco](https://github.com/guibranco)  
   A curated list of brazilian banks  
   ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square)
+  
+- **[cypress-docs-pt-br](https://github.com/pedrohyvo/cypress-docs-pt-br)** by [pedrohyvo](https://github.com/pedrohyvo)
+  Tradução da documentação oficial do framework Cypress.io
+  ![Stars](https://img.shields.io/github/stars/pedrohyvo/cypress-docs-pt-br.svg?style=flat-square)
 
 - **[game-datasets](https://github.com/leomaurodesenv/game-datasets)** by [leomaurodesenv](https://github.com/leomaurodesenv)  
   A curated list of awesome game datasets, and tools to artificial intelligence in games  
