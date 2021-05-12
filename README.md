@@ -461,6 +461,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   A boilerplate to create presentations  
   ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square)
 
+- **[react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid)** by [santosfrancisco](https://github.com/santosfrancisco/)  
+  A react responsive grid flexbox based  
+  ![Stars](https://img.shields.io/github/stars/santosfrancisco/react-awesome-styled-grid?style=flat-square)
+
 - **[react-native-3dcube-navigation](https://github.com/zehfernandes/react-native-3dcube-navigation)** by [zehfernandes](https://github.com/zehfernandes/)  
   Cube transition for React Native  
   ![Stars](https://img.shields.io/github/stars/zehfernandes/react-native-3dcube-navigation?style=flat-square)
