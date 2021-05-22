@@ -424,6 +424,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[Docz](https://github.com/doczjs/docz)** by [pedronauck](https://github.com/pedronauck)  
   Docz makes it easy to write and publish beautiful interactive documentation for your code  
   ![Stars](https://img.shields.io/github/stars/pedronauck/docz.svg?style=flat-square)
+  
+- **[extenso.js](https://github.com/portujs/extenso.js)** by [PortuJS](https://github.com/portujs)  
+  Convert number to words (in Portuguese).  
+  ![Stars](https://img.shields.io/github/stars/portujs/extenso.js?style=flat-square)
 
 - **[fast-memoize.js](https://github.com/caiogondim/fast-memoize.js)** by [caiogondim](https://github.com/caiogondim)  
   Fastest possible memoization library  
