@@ -456,6 +456,10 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[node4noobs](https://github.com/anabastos/node4noobs)** by [anabastos](https://github.com/anabastos)  
   A repository for learning Node working on a project from scratch. Helps people with little programming experience.  
   ![Stars](https://img.shields.io/github/stars/anabastos/node4noobs?style=flat-square)
+  
+- **[piii.js](https://github.com/portujs/piii.js)** by [PortuJS](https://github.com/portujs)  
+  A filter for bad words (in Portuguese).  
+  ![Stars](https://img.shields.io/github/stars/portujs/piii.js?style=flat-square)
 
 - **[qualy-presenter](https://github.com/Qualy-org/qualy-presenter)** by [willianjusten](https://github.com/willianjusten)  
   A boilerplate to create presentations  
