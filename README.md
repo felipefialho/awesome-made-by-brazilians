@@ -449,6 +449,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   A simple and fast boilerplate for creating statics PWA  
   ![Stars](https://img.shields.io/github/stars/felipefialho/kratos-boilerplate.svg?style=flat-square)
 
+- **[mini-video-me](https://maykbrito.github.io/mini-video-me/)** by [maykbrito](https://github.com/maykbrito)  
+  A small webcam player focused on providing an easy way to add and control your webcam during recordings  
+  ![Stars](https://img.shields.io/github/stars/maykbrito/mini-video-me.svg?style=flat-square)
+ 
 - **[mussum-ipsum](https://github.com/diegofelipece/Mussum-Ipsum)** by [diegofelipece](https://github.com/diegofelipece)  
   JS Lorem Ipsum generator  
   ![Stars](https://img.shields.io/github/stars/diegofelipece/Mussum-Ipsum?style=flat-square)
@@ -485,10 +489,6 @@ Alan de Freitas](https://github.com/alandefreitas)
   The ultimate Free Open Source Solution for team communications  
   ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square)
   
-- **[Vue Page Title](https://github.com/vinicius73/vue-page-title)** by [vinicius73](https://github.com/vinicius73)  
-  Vue.js html/page title manager   
-  ![Stars](https://img.shields.io/github/stars/vinicius73/vue-page-title?style=flat-square)
-
 - **[sharer.js](https://github.com/ellisonleao/sharer.js)** by [ellisonleao](https://github.com/ellisonleao)  
   Create your own social share buttons with no extra dependencies  
   ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square)
@@ -512,10 +512,14 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[Unform](https://github.com/Rocketseat/unform)** by [Rocketseat](https://github.com/Rocketseat)  
   Easy peasy highly scalable ReactJS & React Native forms!  
   ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square)
-
+  
 - **[zuck.js](https://github.com/ramon82/zuck.js)** by [ramon82](https://github.com/ramon82)  
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
+
+- **[Vue Page Title](https://github.com/vinicius73/vue-page-title)** by [vinicius73](https://github.com/vinicius73)  
+  Vue.js html/page title manager   
+  ![Stars](https://img.shields.io/github/stars/vinicius73/vue-page-title?style=flat-square)
 
 <a name="Lua"></a>
 
