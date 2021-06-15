@@ -464,7 +464,11 @@ Alan de Freitas](https://github.com/alandefreitas)
 - **[node4noobs](https://github.com/anabastos/node4noobs)** by [anabastos](https://github.com/anabastos)  
   A repository for learning Node working on a project from scratch. Helps people with little programming experience.  
   ![Stars](https://img.shields.io/github/stars/anabastos/node4noobs?style=flat-square)
-  
+
+- **[Nullstack](https://github.com/nullstack/nullstack)** by [Christian Mortaro](https://github.com/mortaro)  
+  Framework to develop feature-driven full-stack vanilla JS components. With SSR, SSG, SPA, PWA, SEO and "too much magic to fit in a line" out-of-the-box.  
+  ![Stars](https://img.shields.io/github/stars/nullstack/nullstack?style=flat-square)
+
 - **[piii.js](https://github.com/portujs/piii.js)** by [PortuJS](https://github.com/portujs)  
   A filter for bad words (in Portuguese).  
   ![Stars](https://img.shields.io/github/stars/portujs/piii.js?style=flat-square)
