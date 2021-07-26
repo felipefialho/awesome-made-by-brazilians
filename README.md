@@ -669,6 +669,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   Project Manager Extension for Visual Studio Code  
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
 
+- **[whatsapp-bot](https://github.com/caioagiani/whatsapp-bot)** by [caioagiani](https://github.com/caioagiani)  
+  BOT - WhatsApp Web in TypeScript  
+  ![Stars](https://img.shields.io/github/stars/caioagiani/whatsapp-bot?style=flat-square)
+
 <a name="vim"></a>
 
 ### vim
