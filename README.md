@@ -661,6 +661,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   oh-my-zsh shell theme based on the Powerline Vim plugin  
   ![Stars](https://img.shields.io/github/stars/caiogondim/bullet-train.zsh?style=flat-square)
 
+- **[Zim](https://github.com/zimfw/zimfw)** by [ericbn](https://github.com/ericbn)  
+  Modular, customizable, and blazing fast Zsh framework  
+  ![Stars](https://img.shields.io/github/stars/zimfw/zimfw?style=flat-square)
+
 <a name="Typescript"></a>
 
 ### Typescript
