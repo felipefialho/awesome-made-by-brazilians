@@ -237,6 +237,10 @@
   A (very) simple UI lib built on top of OpenCV drawing primitives  
   ![Stars](https://img.shields.io/github/stars/Dovyski/cvui.svg?style=flat-square)
   
+- **[material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado)** by [cppbrasil](https://github.com/cppbrasil)  
+  Material for C++, videos, tutorials, examples, books and etc.  
+  ![Stars](https://img.shields.io/github/stars/cppbrasil/material-de-aprendizado.svg?style=flat-square)
+
 - **[matplotplusplus](https://github.com/alandefreitas/matplotplusplus)** by [ Avatar
 Alan de Freitas](https://github.com/alandefreitas)  
   Matplot++: A C++ Graphics Library for Data Visualization  
