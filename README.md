@@ -148,10 +148,6 @@
 - **[frontend-challenges](https://github.com/felipefialho/frontend-challenges)** by [felipefialho](https://github.com/felipefialho)  
   A lot of open-source's challenges of jobs to test your knowledge  
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
-
-- **[Links-de-estudo](https://github.com/Nerd0000/Links-de-Estudo)** by [Nerd0000](https://github.com/Nerd0000)    
-  Links for studying developement and learning new technologies    
-  ![Stars](https://img.shields.io/github/stars/nerd0000/Links-de-Estudo.svg?style=flat-square)
   
 - **[Links-uteis](https://github.com/OfficialMarinho/Links-uteis)** by [OfficialMarinho](https://github.com/OfficialMarinho)  
   useful links for the development of programming and design projects  
