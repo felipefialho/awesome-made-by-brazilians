@@ -444,6 +444,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/larien/learn-go-with-tests.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/larien/learn-go-with-tests.svg)](/LICENSE)
 
+- **[Pitaya](https://github.com/topfreegames/pitaya)** by [TFG Co](https://github.com/topfreegames)  
+  Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.  
+  ![Stars](https://img.shields.io/github/stars/topfreegames/pitaya.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/topfreegames/pitaya.svg)](/LICENSE)
+
 - **[pREST](https://github.com/prest/prest)** by [Avelino](https://github.com/avelino)  
   (PostgreSQL REST), simplify and accelerate development, instant, realtime high-performance on any Postgres application, existing or new  
   ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square)
