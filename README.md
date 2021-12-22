@@ -295,6 +295,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL  
   ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/pgmodeler/pgmodeler.svg)](/LICENSE)
+ 
+ - **[QHot](https://github.com/patrickelectric/qhot)** by [Patrick José Pereira](https://github.com/patrickelectric)  
+  A hot reload for QML files.  
+  ![Stars](https://img.shields.io/github/stars/patrickelectric/qhot.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/patrickelectric/qhot.svg)](/LICENSE)
   
 <a name="css"></a>
 
