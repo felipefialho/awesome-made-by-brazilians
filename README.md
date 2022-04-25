@@ -21,6 +21,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Typescript](#typescript)
 - [vim](#vim)
@@ -813,6 +814,15 @@ Alan de Freitas](https://github.com/alandefreitas)
   LXC provider for Vagrant  
   ![Stars](https://img.shields.io/github/stars/fgrehm/vagrant-lxc?style=flat-square)
  [![license](https://img.shields.io/github/license/fgrehm/vagrant-lxc.svg)](/LICENSE)
+
+<a name="Rust"></a>
+
+### Rust
+
+- **[py2rs](https://github.com/rochacbruno/py2rs)** by [rochacbruno](https://github.com/rochacbruno)  
+  A quick reference guide for the Pythonista in the process of becoming a Rustacean  
+  ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
+ [![license](https://img.shields.io/github/license/rochacbruno/py2rs.svg)](/LICENSE)
 
 <a name="shell"></a>
 
