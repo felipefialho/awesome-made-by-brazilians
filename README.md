@@ -750,6 +750,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square)
  [![license](https://img.shields.io/github/license/osantana/prettyconf.svg)](/LICENSE)
 
+- **[pynubank](https://github.com/andreroggeri/pynubank)** by [andreroggeri](https://github.com/andreroggeri)  
+  Acesse seus extratos do Nubank pelo Python  
+  ![Stars](https://img.shields.io/github/stars/andreroggeri/pynubank?style=flat-square)
+  [![license](https://img.shields.io/github/license/andreroggeri/pynubank.svg)](/LICENSE)
+
 - **[python-decouple](https://github.com/henriquebastos/python-decouple)** by [henriquebastos](https://github.com/henriquebastos)  
   Strict separation of config from code  
   ![Stars](https://img.shields.io/github/stars/henriquebastos/python-decouple?style=flat-square)
