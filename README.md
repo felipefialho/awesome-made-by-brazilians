@@ -847,6 +847,11 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Typescript
 
+- **[ariakit](https://github.com/ariakit/ariakit)** by [diegohaz](https://github.com/diegohaz)  
+  Toolkit for building accessible web apps with React  
+  ![Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat-square)
+ [![license](https://img.shields.io/github/license/ariakit/ariakit.svg)](https://github.com/ariakit/ariakit/blob/main/license)
+
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
