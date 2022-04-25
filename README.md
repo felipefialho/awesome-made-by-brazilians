@@ -701,6 +701,11 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Python
 
+- **[Calculadora do Cidadão](https://github.com/cuducos/calculadora-do-cidadao)** by [cuducos](https://github.com/cuducos)  
+  Tool for Brazilian Reais monetary adjustment/correction  
+  ![Stars](https://img.shields.io/github/stars/cuducos/calculadora-do-cidadao?style=flat-square)
+ [![license](https://img.shields.io/github/license/cuducos/calculadora-do-cidadao.svg)](/LICENSE)
+
 - **[dateutil](https://github.com/dateutil/dateutil)** by [niemeyer](https://github.com/niemeyer)  
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
