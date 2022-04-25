@@ -444,6 +444,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/larien/learn-go-with-tests.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/larien/learn-go-with-tests.svg)](/LICENSE)
 
+- **[Minha Receita](https://github.com/cuducos/minha-receita)** by [cuducos](https://github.com/cuducos)  
+  Sua API web para consulta de informações do CNPJ da Receita Federal  
+  ![Stars](https://img.shields.io/github/stars/cuducos/minha-receita.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/cuducos/minha-receita.svg)](/LICENSE)
+
 - **[Pitaya](https://github.com/topfreegames/pitaya)** by [TFG Co](https://github.com/topfreegames)  
   Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.  
   ![Stars](https://img.shields.io/github/stars/topfreegames/pitaya.svg?style=flat-square)
