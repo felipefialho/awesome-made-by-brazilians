@@ -21,6 +21,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Typescript](#typescript)
 - [vim](#vim)
@@ -444,6 +445,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/larien/learn-go-with-tests.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/larien/learn-go-with-tests.svg)](/LICENSE)
 
+- **[Minha Receita](https://github.com/cuducos/minha-receita)** by [cuducos](https://github.com/cuducos)  
+  Sua API web para consulta de informações do CNPJ da Receita Federal  
+  ![Stars](https://img.shields.io/github/stars/cuducos/minha-receita.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/cuducos/minha-receita.svg)](/LICENSE)
+
 - **[Pitaya](https://github.com/topfreegames/pitaya)** by [TFG Co](https://github.com/topfreegames)  
   Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.  
   ![Stars](https://img.shields.io/github/stars/topfreegames/pitaya.svg?style=flat-square)
@@ -750,6 +756,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/osantana/prettyconf?style=flat-square)
  [![license](https://img.shields.io/github/license/osantana/prettyconf.svg)](/LICENSE)
 
+- **[pynubank](https://github.com/andreroggeri/pynubank)** by [andreroggeri](https://github.com/andreroggeri)  
+  Acesse seus extratos do Nubank pelo Python  
+  ![Stars](https://img.shields.io/github/stars/andreroggeri/pynubank?style=flat-square)
+  [![license](https://img.shields.io/github/license/andreroggeri/pynubank.svg)](/LICENSE)
+
 - **[python-decouple](https://github.com/henriquebastos/python-decouple)** by [henriquebastos](https://github.com/henriquebastos)  
   Strict separation of config from code  
   ![Stars](https://img.shields.io/github/stars/henriquebastos/python-decouple?style=flat-square)
@@ -803,6 +814,15 @@ Alan de Freitas](https://github.com/alandefreitas)
   LXC provider for Vagrant  
   ![Stars](https://img.shields.io/github/stars/fgrehm/vagrant-lxc?style=flat-square)
  [![license](https://img.shields.io/github/license/fgrehm/vagrant-lxc.svg)](/LICENSE)
+
+<a name="Rust"></a>
+
+### Rust
+
+- **[py2rs](https://github.com/rochacbruno/py2rs)** by [rochacbruno](https://github.com/rochacbruno)  
+  A quick reference guide for the Pythonista in the process of becoming a Rustacean  
+  ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
+ [![license](https://img.shields.io/github/license/rochacbruno/py2rs.svg)](/LICENSE)
 
 <a name="shell"></a>
 
