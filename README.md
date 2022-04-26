@@ -851,6 +851,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   Toolkit for building accessible web apps with React  
   ![Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat-square)
  [![license](https://img.shields.io/github/license/ariakit/ariakit.svg)](https://github.com/ariakit/ariakit/blob/main/license)
+ 
+- **[concurrently](https://github.com/open-cli-tools/concurrently)** by [gustavohenke](https://github.com/gustavohenke)  
+  Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.  
+  ![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square)
+ [![license](https://img.shields.io/github/license/open-cli-tools/concurrently.svg)](https://github.com/open-cli-tools/concurrently/blob/master/LICENSE)
 
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
