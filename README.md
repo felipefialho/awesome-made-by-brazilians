@@ -134,6 +134,11 @@
   ![Stars](https://img.shields.io/github/stars/OtacilioN/awesome-hacktoberfest-2020.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/OtacilioN/awesome-hacktoberfest-2020.svg)](/LICENSE)
 
+ - **[Awesome ideas](https://github.com/teles/awesome-ideas)** by [Teles](https://github.com/teles)  
+  A free list of software ideas, all written in portuguese    
+  ![Stars](https://img.shields.io/github/stars/teles/awesome-ideas.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/teles/awesome-ideas.svg)](/LICENSE)
+
 - **[awesome-mlops](https://github.com/kelvins/awesome-mlops)** by [kelvins](https://github.com/kelvins)  
   A curated list of awesome MLOps tools  
   ![Stars](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=flat-square)
