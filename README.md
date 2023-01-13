@@ -139,6 +139,11 @@
   ![Stars](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/kelvins/awesome-mlops.svg)](/LICENSE)
 
+- **[awesome-seo](https://github.com/teles/awesome-seo)** by [Teles](https://github.com/teles)  
+  A curated list of SEO links  
+  ![Stars](https://img.shields.io/github/stars/teles/awesome-seo.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/teles/awesome-seo.svg)](/LICENSE)
+
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
