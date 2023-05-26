@@ -64,6 +64,11 @@
   Open source software of education in Brasil  
   ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square)
  [![license](https://img.shields.io/github/license/portabilis/i-educar.svg)](/LICENSE)
+ 
+- **[LangFlow](https://github.com/logspace-ai/langflow)** by [logspace-ai](https://github.com/logspace-ai)  
+  A User Interface for LangChain  
+  ![Stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=flat-square)
+ [![license](https://img.shields.io/github/license/logspace-ai/langflow.svg)](/LICENSE)
 
 - **[Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Serenata de Amor is an open project using artificial intelligence for social control of public administration  
