@@ -194,6 +194,11 @@
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/LICENSE)
   
+- **[Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path)** by [TK](https://github.com/imteekay)  
+  A Learning Path for Functional Programming  
+  ![Stars](https://img.shields.io/github/stars/imteekay/functional-programming-learning-path.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/functional-programming-learning-path.svg)](/LICENSE)
+
 - **[Links-uteis](https://github.com/OfficialMarinho/Links-uteis)** by [OfficialMarinho](https://github.com/OfficialMarinho)  
   useful links for the development of programming and design projects  
   ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square)
