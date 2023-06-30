@@ -529,6 +529,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/fdaciuk/ajax.svg)](/LICENSE)
   
+- **[Algorithms & Data Structures](https://github.com/imteekay/algorithms)** by [TK](https://github.com/imteekay)  
+  Algorithms & Data Structures studies
+  ![Stars](https://img.shields.io/github/stars/imteekay/algorithms.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/algorithms.svg)](/LICENSE)
+
 - **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
   An API that gives access to resources available on Brazil  
  ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)  
