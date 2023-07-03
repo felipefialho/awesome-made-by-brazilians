@@ -193,7 +193,17 @@
   A lot of open-source's challenges of jobs to test your knowledge  
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/LICENSE)
-  
+
+- **[Frontend Infrastructure](https://github.com/imteekay/frontend-infrastructure)** by [TK](https://github.com/imteekay)  
+  Research on Frontend Infrastructure
+  ![Stars](https://img.shields.io/github/stars/imteekay/frontend-infrastructure.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/frontend-infrastructure.svg)](/LICENSE)
+
+- **[Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path)** by [TK](https://github.com/imteekay)  
+  A Learning Path for Functional Programming
+  ![Stars](https://img.shields.io/github/stars/imteekay/functional-programming-learning-path.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/functional-programming-learning-path.svg)](/LICENSE)
+
 - **[Links-uteis](https://github.com/OfficialMarinho/Links-uteis)** by [OfficialMarinho](https://github.com/OfficialMarinho)  
   useful links for the development of programming and design projects  
   ![Stars](https://img.shields.io/github/stars/officialmarinho/Links-uteis.svg?style=flat-square)
@@ -218,6 +228,11 @@
   Companies with remote job on Brazil  
   ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/lerrua/remote-jobs-brazil.svg)](/LICENSE)
+
+- **[Web Performance Research](https://github.com/imteekay/web-performance-research)** by [TK](https://github.com/imteekay)  
+  Research on Web Performance
+  ![Stars](https://img.shields.io/github/stars/imteekay/web-performance-research.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/web-performance-research.svg)](/LICENSE)
 
 - **[women-teaching-tech](https://github.com/compiladoras/women-teaching-tech)** by [compiladoras](https://github.com/compiladoras)  
   List of channels and courses on technology made by women  
@@ -509,6 +524,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/fdaciuk/ajax.svg)](/LICENSE)
   
+- **[Algorithms & Data Structures](https://github.com/imteekay/algorithms)** by [TK](https://github.com/imteekay)  
+  Algorithms & Data Structures studies
+  ![Stars](https://img.shields.io/github/stars/imteekay/algorithms.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/algorithms.svg)](/LICENSE)
+
 - **[Brasil API](https://github.com/filipedeschamps/BrasilAPI)** by [filipedeschamps](https://github.com/filipedeschamps)  
   An API that gives access to resources available on Brazil  
  ![Stars](https://img.shields.io/github/stars/filipedeschamps/BrasilAPI?style=flat-square)  
