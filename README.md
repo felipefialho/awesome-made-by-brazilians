@@ -844,6 +844,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
  [![license](https://img.shields.io/github/license/rochacbruno/py2rs.svg)](/LICENSE)
 
+- **[Rio](https://github.com/raphamorim/rio)** by [raphamorim](https://github.com/raphamorim)  
+  A hardware-accelerated GPU terminal emulator that runs in desktops and browsers  
+  ![Stars](https://img.shields.io/github/stars/raphamorim/rio?style=flat-square)
+ [![license](https://img.shields.io/github/license/raphamorim/rio.svg)](/LICENSE)
+
 <a name="shell"></a>
 
 ### Shell
