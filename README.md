@@ -124,6 +124,11 @@
   ![Stars](https://img.shields.io/github/stars/wmitrut/awesome-brazilian-devblogs.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/wmitrut/awesome-brazilian-devblogs.svg)](/LICENSE)
 
+- **[awesome-canvas](https://github.com/raphamorim/awesome-canvas)** by [Raphael Amorim](https://github.com/raphamorim/)
+  A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+  ![Stars](https://img.shields.io/github/stars/raphamorim/awesome-canvas.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/raphamorim/awesome-canvas.svg)](/LICENSE)
+
 - **[awesome-csirt](https://github.com/Spacial/csirt)** by [Spacial](https://github.com/Spacial/)
   Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities  
   ![Stars](https://img.shields.io/github/stars/spacial/csirt.svg?style=flat-square)
