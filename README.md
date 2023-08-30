@@ -229,6 +229,11 @@
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/kelvins/Municipios-Brasileiros.svg)](/LICENSE)
 
+- **[Programming Language Research](https://github.com/imteekay/programming-language-research)** by [TK](https://github.com/imteekay)  
+  Research on programming languages, compilers, interpreters
+  ![Stars](https://img.shields.io/github/stars/imteekay/programming-language-research.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/imteekay/programming-language-research.svg)](/LICENSE)
+
 - **[remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)** by [lerrua](https://github.com/lerrua)  
   Companies with remote job on Brazil  
   ![Stars](https://img.shields.io/github/stars/lerrua/remote-jobs-brazil.svg?style=flat-square)
