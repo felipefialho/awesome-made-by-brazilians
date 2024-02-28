@@ -869,6 +869,11 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Rust
 
+- **[KFtray](https://github.com/hcavarsan/kftray)** by [hcavarsan](https://github.com/hcavarsan)  
+  A cross-platform app for managing Kubernetes port forward configurations in the menu bar.
+  ![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square)
+ [![license](https://img.shields.io/github/license/hcavarsan/kftray.svg)](/LICENSE)
+
 - **[py2rs](https://github.com/rochacbruno/py2rs)** by [rochacbruno](https://github.com/rochacbruno)  
   A quick reference guide for the Pythonista in the process of becoming a Rustacean  
   ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
