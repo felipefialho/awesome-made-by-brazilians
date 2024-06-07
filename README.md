@@ -7,6 +7,7 @@
 
 - [Apps, Softwares & Tools](#apps)
 - [Awesomes & Lists](#awesomes)
+- [Bend](#bend)
 - [C](#c)
 - [C#](#csharp)
 - [C++](#cpp)
@@ -250,6 +251,15 @@
  [![license](https://img.shields.io/github/license/compiladoras/women-teaching-tech.svg)](/LICENSE)
 
 <a name="c"></a>
+
+### Bend
+
+<a name="c"></a>
+
+- **[Bend](https://github.com/HigherOrderCO/Bend)** by [VictorTaelin](https://github.com/VictorTaelin)  
+  A high-level, massively parallel programming language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
 
 ### C
 
