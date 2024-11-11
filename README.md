@@ -21,6 +21,7 @@
 - [Lua](#lua)
 - [PHP](#php)
 - [Python](#python)
+- [Quint](#quint)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -850,6 +851,15 @@ Alan de Freitas](https://github.com/alandefreitas)
   Idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js  
   ![Stars](https://img.shields.io/github/stars/gabrielfalcao/sure?style=flat-square)
  [![license](https://img.shields.io/github/license/gabrielfalcao/sure.svg)](/LICENSE)
+
+<a name="quint"></a>
+
+### Quint
+
+- **[Quint](https://github.com/informalsystems/quint)** by [bugarela](https://github.com/bugarela)  
+  A modern and executable specification language  
+  ![Stars](https://img.shields.io/github/stars/informalsystems/quint?style=flat-square)
+ [![license](https://img.shields.io/github/license/informalsystems/quint.svg)](/LICENSE)
 
 <a name="Ruby"></a>
 
