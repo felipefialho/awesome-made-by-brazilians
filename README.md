@@ -161,6 +161,11 @@
   ![Stars](https://img.shields.io/github/stars/teles/awesome-seo.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/teles/awesome-seo.svg)](/LICENSE)
 
+- **[awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)** by [birobirobiro](https://github.com/birobirobiro)  
+  A curated list of awesome things related to shadcn/ui
+  ![Stars](https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square)
+ [![license](https://img.shields.io/github/license/birobirobiro/awesome-shadcn-ui)](/LICENSE)
+
 - **[awesome-svg](https://github.com/willianjusten/awesome-svg)** by [willianjusten](https://github.com/willianjusten)  
   A curated list of SVG  
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
