@@ -650,6 +650,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/portujs/piii.js?style=flat-square)
  [![license](https://img.shields.io/github/license/portujs/piii.js.svg)](/LICENSE)
 
+- **[poku](https://github.com/wellwelwel/poku)** by [Weslley Araújo](https://github.com/wellwelwel)  
+  Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.  
+  ![Stars](https://img.shields.io/github/stars/wellwelwel/poku?style=flat-square)
+ [![license](https://img.shields.io/github/license/wellwelwel/poku.svg)](/LICENSE)
+
 - **[qualy-presenter](https://github.com/Qualy-org/qualy-presenter)** by [willianjusten](https://github.com/willianjusten)  
   A boilerplate to create presentations  
   ![Stars](https://img.shields.io/github/stars/Qualy-org/qualy-presenter?style=flat-square)
