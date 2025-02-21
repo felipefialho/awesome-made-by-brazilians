@@ -797,10 +797,10 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
  [![license](https://img.shields.io/github/license/bernardopires/django-tenant-schemas.svg)](/LICENSE)
 
-- **[Dynaconf](https://github.com/rochacbruno/dynaconf)** by [rochacbruno](https://github.com/rochacbruno/)  
+- **[Dynaconf](https://github.com/dynaconf/dynaconf)** by [rochacbruno](https://github.com/rochacbruno/)  
   Configuration Management for Python  
-  ![Stars](https://img.shields.io/github/stars/rochacbruno/dynaconf?style=flat-square)
- [![license](https://img.shields.io/github/license/rochacbruno/dynaconf.svg)](/LICENSE)
+  ![Stars](https://img.shields.io/github/stars/dynaconf/dynaconf?style=flat-square)
+ [![license](https://img.shields.io/github/license/dynaconf/dynaconf.svg)](/LICENSE)
 
 - **[fklearn](https://github.com/nubank/fklearn)** by [Nubank](https://github.com/nubank)  
   fklearn: Functional Machine Learning  
