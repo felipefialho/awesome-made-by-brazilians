@@ -17,6 +17,7 @@
 - [Delphi](#delphi)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Haskell](#haskell)
 - [JavaScript](#js)
 - [Lua](#lua)
 - [PHP](#php)
@@ -541,6 +542,17 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
  [![license](https://img.shields.io/github/license/tsuru/tsuru.svg)](/LICENSE)
 
+
+<a name="haskell"></a>
+
+### Haskell
+
+- **[Kind](https://github.com/HigherOrderCO/Kind)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A modern proof language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Kind?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Kind.svg)](/LICENSE)
+
+
 <a name="js"></a>
 
 ### JavaScript
@@ -903,6 +915,16 @@ Alan de Freitas](https://github.com/alandefreitas)
 <a name="Rust"></a>
 
 ### Rust
+
+- **[Bend](https://github.com/HigherOrderCO/Bend)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A massively parallel, high-level programming language  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
+
+- **[HVM](https://github.com/HigherOrderCO/HVM)** by [HigherOrderCO](https://github.com/HigherOrderCO)  
+  A massively parallel, optimal functional runtime in Rust  
+  ![Stars](https://img.shields.io/github/stars/HigherOrderCO/HVM?style=flat-square)
+ [![license](https://img.shields.io/github/license/HigherOrderCO/HVM.svg)](/LICENSE)
 
 - **[KFtray](https://github.com/hcavarsan/kftray)** by [hcavarsan](https://github.com/hcavarsan)  
   A cross-platform app for managing Kubernetes port forward configurations in the menu bar.
