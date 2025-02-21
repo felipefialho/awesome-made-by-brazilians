@@ -372,6 +372,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/bananacss/bananacss.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/bananacss/bananacss.svg)](/LICENSE)
 
+- **[css2wind](https://github.com/LukeberryPi/css2wind)** by [LukeberryPi](https://github.com/LukeberryPi)  
+  A wonderful game that translates the CSS property to its Tailwind CSS equivalent  
+  ![Stars](https://img.shields.io/github/stars/LukeberryPi/css2wind.svg?style=flat-square)
+  [![license](https://img.shields.io/github/license/LukeberryPi/css2wind.svg)](/LICENSE)
+
 - **[CSS Components](https://github.com/felipefialho/css-components)** ny [felipefialho](https://github.com/felipefialho)  
   Using the power of CSS and without Javascript  
   ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square)
