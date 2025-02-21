@@ -67,10 +67,10 @@
   ![Stars](https://img.shields.io/github/stars/portabilis/i-educar?style=flat-square)
  [![license](https://img.shields.io/github/license/portabilis/i-educar.svg)](/LICENSE)
  
-- **[LangFlow](https://github.com/logspace-ai/langflow)** by [logspace-ai](https://github.com/logspace-ai)  
-  A User Interface for LangChain  
-  ![Stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=flat-square)
- [![license](https://img.shields.io/github/license/logspace-ai/langflow.svg)](/LICENSE)
+- **[LangFlow](https://github.com/langflow-ai/langflow)** by [langflow-ai](https://github.com/langflow-ai)  
+  Langflow é um construtor de aplicações de low-code para aplicações de RAG e IA multiagente. É baseado em Python e compatível com qualquer modelo, API ou banco de dados.
+  ![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square)
+ [![license](https://img.shields.io/github/license/langflow-ai/langflow.svg)](/LICENSE)
 
 - **[Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Serenata de Amor is an open project using artificial intelligence for social control of public administration  
