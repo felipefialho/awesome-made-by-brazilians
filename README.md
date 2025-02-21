@@ -942,6 +942,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square)
  [![license](https://img.shields.io/github/license/open-cli-tools/concurrently.svg)](https://github.com/open-cli-tools/concurrently/blob/master/LICENSE)
 
+- **[ExpressoTS Framework](https://github.com/expressots/expressots)** by [Richard Zampieri](https://github.com/rsaz)  
+  A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎  
+  ![Stars](https://img.shields.io/github/stars/expressots/expressots?style=flat-square)
+  [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md)
+
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
