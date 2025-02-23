@@ -912,6 +912,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/fgrehm/vagrant-lxc?style=flat-square)
  [![license](https://img.shields.io/github/license/fgrehm/vagrant-lxc.svg)](/LICENSE)
 
+- **[Nordic Jam](https://github.com/edgarberlinck/nordic-jam)** by [edgarberlinck](https://github.com/edgarberlinck)  
+  Connect musicians in Scandinavia  
+  ![Stars](https://img.shields.io/github/stars/edgarberlinck/nordic-jam?style=flat-square)
+ [![license](https://img.shields.io/github/license/edgarberlinck/nordic-jam.svg)](/LICENSE)
+
 <a name="Rust"></a>
 
 ### Rust
