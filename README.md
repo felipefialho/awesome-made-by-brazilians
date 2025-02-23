@@ -897,6 +897,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/fnando/browser?style=flat-square)
  [![license](https://img.shields.io/github/license/fnando/browser.svg)](/LICENSE)
 
+- **[Nordic Jam](https://github.com/edgarberlinck/nordic-jam)** by [edgarberlinck](https://github.com/edgarberlinck)  
+  Connect musicians in Scandinavia  
+  ![Stars](https://img.shields.io/github/stars/edgarberlinck/nordic-jam?style=flat-square)
+ [![license](https://img.shields.io/github/license/edgarberlinck/nordic-jam.svg)](/LICENSE)
+
 - **[Rails gem devise](https://github.com/heartcombo/devise)** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva).  
   Rails gem devise for user authentication  
   ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square)
@@ -911,11 +916,6 @@ Alan de Freitas](https://github.com/alandefreitas)
   LXC provider for Vagrant  
   ![Stars](https://img.shields.io/github/stars/fgrehm/vagrant-lxc?style=flat-square)
  [![license](https://img.shields.io/github/license/fgrehm/vagrant-lxc.svg)](/LICENSE)
-
-- **[Nordic Jam](https://github.com/edgarberlinck/nordic-jam)** by [edgarberlinck](https://github.com/edgarberlinck)  
-  Connect musicians in Scandinavia  
-  ![Stars](https://img.shields.io/github/stars/edgarberlinck/nordic-jam?style=flat-square)
- [![license](https://img.shields.io/github/license/edgarberlinck/nordic-jam.svg)](/LICENSE)
 
 <a name="Rust"></a>
 
