@@ -232,6 +232,11 @@
   ![Stars](https://img.shields.io/github/stars/apsantos-dev/modelo-de-contrato.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/apsantos-dev/modelo-de-contrato.svg)](/LICENSE)
 
+ - **[Mulheres na Tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)** by [anatechdev](https://github.com/anatechdev)  
+  Reference content produced by inspiring women and technology communities. 
+  ![Stars](https://img.shields.io/github/stars/anatechdev/mulheres-na-tecnologia.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/anatechdev/mulheres-na-tecnologia.svg)](/LICENSE)
+
 - **[Municípios Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)** by [kelvins](https://github.com/kelvins)  
   List os brazilian cities  
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
