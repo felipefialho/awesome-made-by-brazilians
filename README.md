@@ -393,6 +393,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/raphaelfabeni/css-loader.svg)](/LICENSE)
 
+- **[luxacss](https://github.com/luxonauta/luxacss)** by [luxonauta](https://github.com/luxonauta)  
+  The minimalist CSS library  
+  ![Stars](https://img.shields.io/github/stars/luxonauta/luxacss.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/luxonauta/luxacss.svg)](/LICENSE)  
+
 - **[Milligram](https://github.com/milligram/milligram)** by [cjpatoilo](https://github.com/cjpatoilo)  
   A minimalist CSS framework  
   ![Stars](https://img.shields.io/github/stars/milligram/milligram.svg?style=flat-square)
