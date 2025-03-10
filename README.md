@@ -941,6 +941,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square)
  [![license](https://img.shields.io/github/license/hcavarsan/kftray.svg)](/LICENSE)
 
+- **[Marmite](https://github.com/rochacbruno/marmite/)** by [rochacbruno](https://github.com/rochacbruno)  
+  A Static Site Generator for blogs that is simple, fast and written in Rust  
+  ![Stars](https://img.shields.io/github/stars/rochacbruno/marmite?style=flat-square)
+ [![license](https://img.shields.io/github/license/rochacbruno/marmite.svg)](/LICENSE)
+
 - **[py2rs](https://github.com/rochacbruno/py2rs)** by [rochacbruno](https://github.com/rochacbruno)  
   A quick reference guide for the Pythonista in the process of becoming a Rustacean  
   ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
