@@ -804,7 +804,6 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/arthurhenrique/cookiecutter-fastapi?style=flat-square)
  [![license](https://img.shields.io/github/license/arthurhenrique/cookiecutter-fastapi.svg)](/LICENSE)
 
-
 - **[dateutil](https://github.com/dateutil/dateutil)** by [niemeyer](https://github.com/niemeyer)  
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
