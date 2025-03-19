@@ -799,6 +799,12 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/cuducos/calculadora-do-cidadao?style=flat-square)
  [![license](https://img.shields.io/github/license/cuducos/calculadora-do-cidadao.svg)](/LICENSE)
 
+- **[cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi)** by [arthurhenrique](https://github.com/arthurhenrique)  
+  Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytest  
+  ![Stars](https://img.shields.io/github/stars/arthurhenrique/cookiecutter-fastapi?style=flat-square)
+ [![license](https://img.shields.io/github/license/arthurhenrique/cookiecutter-fastapi.svg)](/LICENSE)
+
+
 - **[dateutil](https://github.com/dateutil/dateutil)** by [niemeyer](https://github.com/niemeyer)  
   Useful extensions to the standard Python datetime features  
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
