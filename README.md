@@ -809,6 +809,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
  [![license](https://img.shields.io/github/license/dateutil/dateutil.svg)](/LICENSE)
 
+- **[django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant)** by [Vinta Software](https://github.com/vintasoftware)  
+  Integrate AI Assistants with Django to build intelligent applications  
+  ![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-assistant?style=flat-square)
+ [![license](https://img.shields.io/github/license/vintasoftware/django-ai-assistant.svg)](/LICENSE)
+
 - **[django-htmlmin](https://github.com/cobrateam/django-htmlmin)** by [cobrateam](https://github.com/cobrateam)  
   HTML minifier for Python frameworks  
   ![Stars](https://img.shields.io/github/stars/cobrateam/django-htmlmin?style=flat-square)
