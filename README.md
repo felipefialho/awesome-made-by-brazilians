@@ -18,6 +18,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#js)
 - [Lua](#lua)
 - [PHP](#php)
@@ -562,6 +563,15 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Kind?style=flat-square)
  [![license](https://img.shields.io/github/license/HigherOrderCO/Kind.svg)](/LICENSE)
 
+
+<a name="java"></a>
+
+### Java
+
+- **[BuildCLI](https://github.com/BuildCLI/BuildCLI)** by [wheslleyrimar](https://github.com/wheslleyrimar)  
+  BuildCLI is a command-line interface (CLI) tool for managing and automating common tasks in Java project development  
+  ![Stars](https://img.shields.io/github/stars/BuildCLI/BuildCLI?style=flat-square)
+ [![license](https://img.shields.io/github/license/BuildCLI/BuildCLI.svg)](/LICENSE)
 
 <a name="js"></a>
 
