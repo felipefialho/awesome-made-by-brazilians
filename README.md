@@ -804,6 +804,11 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Python
 
+- **[brutils-python](https://github.com/brazilian-utils/brutils-python)** by [brazilian-utils](https://github.com/brazilian-utils)  
+  Utils library for validating and generating Brazilian documents like CPF, CNPJ, CEP and more  
+  ![Stars](https://img.shields.io/github/stars/brazilian-utils/brutils-python?style=flat-square)
+ [![license](https://img.shields.io/github/license/brazilian-utils/brutils-python.svg)](/LICENSE)
+
 - **[Calculadora do Cidadão](https://github.com/cuducos/calculadora-do-cidadao)** by [cuducos](https://github.com/cuducos)  
   Tool for Brazilian Reais monetary adjustment/correction  
   ![Stars](https://img.shields.io/github/stars/cuducos/calculadora-do-cidadao?style=flat-square)
