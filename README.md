@@ -412,6 +412,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/mauricioszabo/atom-chlorine.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/mauricioszabo/atom-chlorine.svg)](/LICENSE)
 
+- **[ECA](https://github.com/editor-code-assistant/eca)** by [Eric Dallo](https://github.com/ericdallo)  
+  A free and open source editor-agnostic AI pair programming tool, inspired by the LSP protocol  
+  ![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/editor-code-assistant/eca.svg)](/LICENSE)
+
 - **[Pathom](https://github.com/wilkerlucio/pathom)** by [Wilker Lúcio](https://github.com/wilkerlucio)
   A Clojure library designed to help you write Clojure(script) graph query processing parsers for the query notation used by EQL  
   ![Stars](https://img.shields.io/github/stars/wilkerlucio/pathom.svg?style=flat-square)
