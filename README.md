@@ -412,6 +412,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/mauricioszabo/atom-chlorine.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/mauricioszabo/atom-chlorine.svg)](/LICENSE)
 
+- **[clojure-lsp](https://github.com/clojure-lsp/clojure-lsp)** by [Eric Dallo](https://github.com/ericdallo)  
+  Clojure & ClojureScript Language Server (LSP) implementation  
+  ![Stars](https://img.shields.io/github/stars/clojure-lsp/clojure-lsp.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/clojure-lsp/clojure-lsp.svg)](/LICENSE)
+ 
 - **[ECA](https://github.com/editor-code-assistant/eca)** by [Eric Dallo](https://github.com/ericdallo)  
   A free and open source editor-agnostic AI pair programming tool, inspired by the LSP protocol  
   ![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca.svg?style=flat-square)
