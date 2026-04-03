@@ -1024,6 +1024,12 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/expressots/expressots?style=flat-square)
   [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md)
 
+
+- **[Feriados API MCP Server](https://github.com/feriadosapi/feriadosapi-mcp)** by [joaopbini](https://github.com/joaopbini)  
+  API REST de feriados brasileiros (nacionais, estaduais e municipais) com cobertura de 5.570 municipios. MCP Server para integracao com agentes de IA.  
+  ![Stars](https://img.shields.io/github/stars/feriadosapi/feriadosapi-mcp?style=flat-square)
+ [![license](https://img.shields.io/github/license/feriadosapi/feriadosapi-mcp.svg)](https://github.com/feriadosapi/feriadosapi-mcp/blob/main/LICENSE)
+
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
