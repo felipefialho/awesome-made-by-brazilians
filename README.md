@@ -1072,3 +1072,4 @@ If you want to add a project to this list, please make sure that:
 
 [MIT](/license)
 * [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - Ferramenta de IA para desfocar rostos localmente.
+* [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - Ferramenta de IA para desfocar rostos localmente.
