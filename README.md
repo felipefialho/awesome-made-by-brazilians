@@ -43,6 +43,9 @@
   Job aggregator for developers  
   ![Stars](https://img.shields.io/github/stars/LarissaAbreu/contrata-se-dev.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/LarissaAbreu/contrata-se-dev.svg)](/LICENSE)
+- **[Crime Brasil](https://crimebrasil.com.br)** by [valdovaldo1500-cell](https://github.com/valdovaldo1500-cell)  
+  Open-data platform for Brazilian crime statistics. Neighborhood-level coverage in Rio Grande do Sul (2.99M incidents, 99.99% geocoded), municipality-level for MG and RJ, plus national PRF and DATASUS data. Free REST API, CSV exports, CC BY 4.0.
+
 
 - **[DevHub](https://github.com/devhubapp/devhub)** by [brunolemos](https://github.com/brunolemos)  
   GitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)  
