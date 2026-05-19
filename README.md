@@ -74,6 +74,11 @@
   ![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square)
  [![license](https://img.shields.io/github/license/langflow-ai/langflow.svg)](/LICENSE)
 
+- **[mcp-fiscal-brasil](https://github.com/nikolasdehor/mcp-fiscal-brasil)** by [Nikolas de Hor](https://github.com/nikolasdehor)  
+  Servidor MCP para integracao de IAs com o sistema fiscal brasileiro (CNPJ, NFe, SPED, eSocial).  
+  ![Stars](https://img.shields.io/github/stars/nikolasdehor/mcp-fiscal-brasil?style=flat-square)
+ [![license](https://img.shields.io/github/license/nikolasdehor/mcp-fiscal-brasil)](/LICENSE)
+
 - **[Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Serenata de Amor is an open project using artificial intelligence for social control of public administration  
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square)
@@ -94,10 +99,25 @@
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/refined-bitbucket/refined-bitbucket.svg)](/LICENSE)
 
+- **[semtree](https://github.com/nikolasdehor/semtree)** by [Nikolas de Hor](https://github.com/nikolasdehor)  
+  Indexacao semantica de codebases com tree-sitter para reduzir consumo de tokens em assistentes de IA.  
+  ![Stars](https://img.shields.io/github/stars/nikolasdehor/semtree?style=flat-square)
+ [![license](https://img.shields.io/github/license/nikolasdehor/semtree)](/LICENSE)
+
+- **[shieldcode](https://github.com/nikolasdehor/shieldcode)** by [Nikolas de Hor](https://github.com/nikolasdehor)  
+  Skill do Claude Code com regras OWASP Top 10 para prevencao automatica de vulnerabilidades.  
+  ![Stars](https://img.shields.io/github/stars/nikolasdehor/shieldcode?style=flat-square)
+ [![license](https://img.shields.io/github/license/nikolasdehor/shieldcode)](/LICENSE)
+
 - **[SpeakerFight](https://github.com/luanfonceca/speakerfight)** by [luanfonceca](https://github.com/luanfonceca)  
   The Easier way to choose the best talks  
   ![Stars](https://img.shields.io/github/stars/luanfonceca/speakerfight.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/luanfonceca/speakerfight.svg)](/LICENSE)
+
+- **[visual-eyes](https://github.com/nikolasdehor/visual-eyes)** by [Nikolas de Hor](https://github.com/nikolasdehor)  
+  Skill do Claude Code para analise visual de UI via screenshot, fechando o loop de feedback visual.  
+  ![Stars](https://img.shields.io/github/stars/nikolasdehor/visual-eyes?style=flat-square)
+ [![license](https://img.shields.io/github/license/nikolasdehor/visual-eyes)](/LICENSE)
 
 - **[webBudget](https://github.com/arthurgregorio/web-budget)** by [arthurgregorio](https://github.com/arthurgregorio)  
   A free and open-source software to control your personal finances or of your small company  
