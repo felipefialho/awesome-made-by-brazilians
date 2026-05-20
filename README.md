@@ -1034,6 +1034,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/caioagiani/whatsapp-bot?style=flat-square)
  [![license](https://img.shields.io/github/license/caioagiani/whatsapp-bot.svg)](/LICENSE)
 
+- **[Zard/ui](https://github.com/zard-ui/zardui)** by [luizgomess](https://github.com/Luizgomess)  
+  The alternative shadcn/ui for angular  
+  ![Stars](https://img.shields.io/github/stars/zard-ui/zardui?style=flat-square)
+ [![license](https://img.shields.io/github/license/zard-ui/zardui.svg)](https://github.com/zard-ui/zardui/blob/main/LICENSE.md)
+
 <a name="vim"></a>
 
 ### vim
