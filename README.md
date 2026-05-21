@@ -39,6 +39,11 @@
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/insidegui/WWDC.svg)](/LICENSE)
 
+- **[atendente24h-public-docs](https://github.com/avenaactivewear-wq/atendente24h-public-docs)** by [Upar.io](https://upar.io)  
+  Public docs (CC0) for Atendente24h, a Brazilian SaaS that delivers a WhatsApp customer-service agent powered by Anthropic Claude. Built by Caco Melgaço (Botafogo, Rio de Janeiro).  
+  ![Stars](https://img.shields.io/github/stars/avenaactivewear-wq/atendente24h-public-docs?style=flat-square)
+ [![license](https://img.shields.io/badge/license-CC0-blue.svg)](/LICENSE)
+
 - **[contrata-se-dev](https://contrata-se.dev/)** by [LarissaAbreu](https://github.com/LarissaAbreu)  
   Job aggregator for developers  
   ![Stars](https://img.shields.io/github/stars/LarissaAbreu/contrata-se-dev.svg?style=flat-square)
