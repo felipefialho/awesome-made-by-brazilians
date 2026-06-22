@@ -732,6 +732,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/ellisonleao/sharer.js?style=flat-square)
  [![license](https://img.shields.io/github/license/ellisonleao/sharer.js.svg)](/LICENSE)
 
+- **[Sidequest](https://github.com/sidequestjs/sidequest)** by [Lucas Merencia](https://github.com/merencia) and [Giovani Guizzo](https://github.com/GiovaniGuizzo)  
+  Sidequest is a modern, scalable background job processor for Node.js applications.  
+  ![Stars](https://img.shields.io/github/stars/sidequestjs/sidequest?style=flat-square)
+ [![license](https://img.shields.io/github/license/sidequestjs/sidequest.svg)](/LICENSE)
+
 - **[subtitle.js](https://github.com/gsantiago/subtitle.js)** by [gsantiago](https://github.com/gsantiago)  
   Parse and manipulate subtitles  
   ![Stars](https://img.shields.io/github/stars/gsantiago/subtitle.js?style=flat-square)
