@@ -34,6 +34,11 @@
 
 ### Apps, Softwares & Tools
 
+- **[Calculadora de Custo Real de Eletrônicos](https://torado.store/ferramentas/calculadora-custo-real/)** by [JailtonFonseca](https://github.com/Jailtonfonseca/calculadora-custo-real) 
+  Ferramenta open source em PT-BR que calcula o custo total de eletrônicos (preço + energia) por ano, com modo comparação A vs B.
+  ![Stars](https://img.shields.io/github/stars/Jailtonfonseca/calculadora-custo-real.svg?style=flat-square) 
+  [![license](https://img.shields.io/github/license/Jailtonfonseca/calculadora-custo-real.svg)](https://github.com/Jailtonfonseca/calculadora-custo-real/blob/main/LICENSE)
+
 - **[anonydog](https://github.com/anonydog/anonydog)** by [anonydog](https://github.com/anonydog)  
   A bot to anonymize contributors  
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
