@@ -74,6 +74,11 @@
   ![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square)
  [![license](https://img.shields.io/github/license/langflow-ai/langflow.svg)](/LICENSE)
 
+- **[Marreta](https://github.com/manualdousuario/marreta)** by [manualdousuario](https://github.com/manualdousuario)  
+  A tool that removes access barriers and visual distractions  
+  ![Stars](https://img.shields.io/github/stars/manualdousuario/marreta?style=flat-square)
+  [![license](https://img.shields.io/github/license/manualdousuario/marreta.svg)](/LICENSE)
+
 - **[Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)** by [okfn-brasil](https://github.com/okfn-brasil)  
   Serenata de Amor is an open project using artificial intelligence for social control of public administration  
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square)
