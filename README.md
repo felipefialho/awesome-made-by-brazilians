@@ -934,6 +934,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/gabrielfalcao/sure?style=flat-square)
  [![license](https://img.shields.io/github/license/gabrielfalcao/sure.svg)](/LICENSE)
 
+- **[Wayback Tweets](https://github.com/claromes/waybacktweets)** by [claromes](https://github.com/claromes)  
+  Retrieves archived tweets from the Wayback Machine, performs necessary parsing and saves the data in HTML, CSV and JSON formats  
+  ![Stars](https://img.shields.io/github/stars/claromes/waybacktweets?style=flat-square)
+ [![license](https://img.shields.io/github/license/claromes/waybacktweets.svg)](/LICENSE)
+
 <a name="quint"></a>
 
 ### Quint
