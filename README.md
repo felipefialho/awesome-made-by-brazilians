@@ -1035,7 +1035,7 @@ Alan de Freitas](https://github.com/alandefreitas)
   [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md)
 
 - **[Shark UI](https://github.com/sharkui-inc/shark-ui)** by [vinihvc](https://github.com/vinihvc)  
-  Accessible React components built with Ark UI and Tailwind CSS, distributed through a shadcn-compatible registry  
+  Beautifully designed shadcn-style components built on Ark UI  
   ![Stars](https://img.shields.io/github/stars/sharkui-inc/shark-ui?style=flat-square)  
  [![license](https://img.shields.io/github/license/sharkui-inc/shark-ui.svg)](https://github.com/sharkui-inc/shark-ui/blob/main/LICENSE.md)  
 
