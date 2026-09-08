@@ -99,6 +99,11 @@
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/refined-bitbucket/refined-bitbucket.svg)](/LICENSE)
 
+- **[Resumed](https://github.com/rbardini/resumed)** by [rbardini](https://github.com/rbardini)  
+  Lightweight JSON Resume builder  
+  ![Stars](https://img.shields.io/github/stars/rbardini/resumed?style=flat-square)
+  [![license](https://img.shields.io/github/license/rbardini/resumed.svg)](/LICENSE)
+
 - **[Securo](https://github.com/securo-finance/securo)** by [tassionoronha](https://github.com/tassionoronha)  
   Open-source personal finance manager. Self-hosted, privacy-first.  
   ![Stars](https://img.shields.io/github/stars/securo-finance/securo?style=flat-square)
