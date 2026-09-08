@@ -99,6 +99,11 @@
   ![Stars](https://img.shields.io/github/stars/refined-bitbucket/refined-bitbucket.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/refined-bitbucket/refined-bitbucket.svg)](/LICENSE)
 
+- **[Securo](https://github.com/securo-finance/securo)** by [tassionoronha](https://github.com/tassionoronha)  
+  Open-source personal finance manager. Self-hosted, privacy-first.  
+  ![Stars](https://img.shields.io/github/stars/securo-finance/securo?style=flat-square)
+ [![license](https://img.shields.io/github/license/securo-finance/securo.svg)](/LICENSE)
+
 - **[SpeakerFight](https://github.com/luanfonceca/speakerfight)** by [luanfonceca](https://github.com/luanfonceca)  
   The Easier way to choose the best talks  
   ![Stars](https://img.shields.io/github/stars/luanfonceca/speakerfight.svg?style=flat-square)
