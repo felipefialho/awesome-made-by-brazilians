@@ -1034,6 +1034,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/expressots/expressots?style=flat-square)
   [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md)
 
+- **[Shark UI](https://github.com/sharkui-inc/shark-ui)** by [vinihvc](https://github.com/vinihvc)  
+  Beautifully designed shadcn-style components built on Ark UI  
+  ![Stars](https://img.shields.io/github/stars/sharkui-inc/shark-ui?style=flat-square)  
+ [![license](https://img.shields.io/github/license/sharkui-inc/shark-ui.svg)](https://github.com/sharkui-inc/shark-ui/blob/main/LICENSE.md)  
+
 - **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
   Project Manager Extension for Visual Studio Code  
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
