@@ -84,6 +84,11 @@
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square)
  [![license](https://img.shields.io/github/license/okfn-brasil/serenata-de-amor.svg)](/LICENSE)
 
+- **[Openings](https://github.com/openings-dev/web)** by [Guilherme Albert](https://github.com/GuilhermeAlbert)  
+  Open-source search for tech jobs shared through public GitHub communities  
+  ![Stars](https://img.shields.io/github/stars/openings-dev/web.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/openings-dev/web.svg)](/LICENSE)
+
 - **[pliim](https://github.com/zehfernandes/pliim)** by [zehfernandes](https://github.com/zehfernandes)  
   Safely share your screen with one click  
   ![Stars](https://img.shields.io/github/stars/zehfernandes/pliim.svg?style=flat-square)
@@ -137,6 +142,11 @@
   A curate list about A11Y  
   ![Stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y.svg?style=flat-square)
  [![license](https://img.shields.io/github/license/brunopulis/awesome-a11y.svg)](/LICENSE)
+
+- **[awesome-ai-conventions](https://github.com/GuilhermeAlbert/awesome-ai-conventions)** by [Guilherme Albert](https://github.com/GuilhermeAlbert)  
+  A curated list of emerging conventions to build AI agents  
+  ![Stars](https://img.shields.io/github/stars/GuilhermeAlbert/awesome-ai-conventions.svg?style=flat-square)
+ [![license](https://img.shields.io/github/license/GuilhermeAlbert/awesome-ai-conventions.svg)](/LICENSE)
 
 - **[awesome-brazilian-devblogs](https://github.com/Wmitrut/awesome-brazilian-devblogs)** by [Mitrut](https://github.com/wmitrut)  
   An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR  
