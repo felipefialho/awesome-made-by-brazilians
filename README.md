@@ -879,6 +879,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   ![Stars](https://img.shields.io/github/stars/dynaconf/dynaconf?style=flat-square)
  [![license](https://img.shields.io/github/license/dynaconf/dynaconf.svg)](/LICENSE)
 
+- **[FishID Studio](https://github.com/viniciusscience/fishid-studio)** by [viniciusscience](https://github.com/viniciusscience)  
+  Open-source Computer Vision and Deep Learning platform for marine fish species identification, electronic monitoring (EM), video tracking, and automated biometry  
+  ![Stars](https://img.shields.io/github/stars/viniciusscience/fishid-studio?style=flat-square)
+ [![license](https://img.shields.io/github/license/viniciusscience/fishid-studio.svg)](/LICENSE)
+
 - **[fklearn](https://github.com/nubank/fklearn)** by [Nubank](https://github.com/nubank)  
   fklearn: Functional Machine Learning  
   ![Stars](https://img.shields.io/github/stars/nubank/fklearn?style=flat-square)
